@@ -1,0 +1,126 @@
+C:\Users\PROG-MASTER\Documents\locacao-backend\Repository\bin\Release\Repository.dll.config
+C:\Users\PROG-MASTER\Documents\locacao-backend\Repository\bin\Release\Repository.dll
+C:\Users\PROG-MASTER\Documents\locacao-backend\Repository\bin\Release\Repository.pdb
+C:\Users\PROG-MASTER\Documents\locacao-backend\Repository\bin\Release\Domain.dll
+C:\Users\PROG-MASTER\Documents\locacao-backend\Repository\bin\Release\EntityFramework.dll
+C:\Users\PROG-MASTER\Documents\locacao-backend\Repository\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\PROG-MASTER\Documents\locacao-backend\Repository\bin\Release\MySql.Data.dll
+C:\Users\PROG-MASTER\Documents\locacao-backend\Repository\bin\Release\MySql.Data.Entity.EF6.dll
+C:\Users\PROG-MASTER\Documents\locacao-backend\Repository\bin\Release\Domain.pdb
+C:\Users\PROG-MASTER\Documents\locacao-backend\Repository\bin\Release\Domain.dll.config
+C:\Users\PROG-MASTER\Documents\locacao-backend\Repository\bin\Release\EntityFramework.xml
+C:\Users\PROG-MASTER\Documents\locacao-backend\Repository\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\PROG-MASTER\Documents\locacao-backend\Repository\bin\Release\MySql.Data.xml
+C:\Users\PROG-MASTER\Documents\locacao-backend\Repository\bin\Release\MySql.Data.Entity.EF6.xml
+C:\Users\PROG-MASTER\Documents\locacao-backend\Repository\obj\Release\Repository.csprojAssemblyReference.cache
+C:\Users\PROG-MASTER\Documents\locacao-backend\Repository\obj\Release\Repository.csproj.CoreCompileInputs.cache
+C:\Users\PROG-MASTER\Documents\locacao-backend\Repository\obj\Release\Repository.csproj.CopyComplete
+C:\Users\PROG-MASTER\Documents\locacao-backend\Repository\obj\Release\Repository.dll
+C:\Users\PROG-MASTER\Documents\locacao-backend\Repository\obj\Release\Repository.pdb
+C:\Users\OMEGA 02\Documents\locacao-backend\Repository\bin\Release\Repository.dll.config
+C:\Users\OMEGA 02\Documents\locacao-backend\Repository\bin\Release\Repository.dll
+C:\Users\OMEGA 02\Documents\locacao-backend\Repository\bin\Release\Repository.pdb
+C:\Users\OMEGA 02\Documents\locacao-backend\Repository\bin\Release\Domain.dll
+C:\Users\OMEGA 02\Documents\locacao-backend\Repository\bin\Release\EntityFramework.dll
+C:\Users\OMEGA 02\Documents\locacao-backend\Repository\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\OMEGA 02\Documents\locacao-backend\Repository\bin\Release\MySql.Data.dll
+C:\Users\OMEGA 02\Documents\locacao-backend\Repository\bin\Release\MySql.Data.Entity.EF6.dll
+C:\Users\OMEGA 02\Documents\locacao-backend\Repository\bin\Release\Domain.pdb
+C:\Users\OMEGA 02\Documents\locacao-backend\Repository\bin\Release\Domain.dll.config
+C:\Users\OMEGA 02\Documents\locacao-backend\Repository\bin\Release\EntityFramework.xml
+C:\Users\OMEGA 02\Documents\locacao-backend\Repository\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\OMEGA 02\Documents\locacao-backend\Repository\bin\Release\MySql.Data.xml
+C:\Users\OMEGA 02\Documents\locacao-backend\Repository\bin\Release\MySql.Data.Entity.EF6.xml
+C:\Users\OMEGA 02\Documents\locacao-backend\Repository\obj\Release\Repository.csprojAssemblyReference.cache
+C:\Users\OMEGA 02\Documents\locacao-backend\Repository\obj\Release\Repository.csproj.CoreCompileInputs.cache
+C:\Users\OMEGA 02\Documents\locacao-backend\Repository\obj\Release\Repository.csproj.CopyComplete
+C:\Users\OMEGA 02\Documents\locacao-backend\Repository\obj\Release\Repository.dll
+C:\Users\OMEGA 02\Documents\locacao-backend\Repository\obj\Release\Repository.pdb
+C:\dev\make2u\locacao-backend\Repository\bin\Release\Repository.dll.config
+C:\dev\make2u\locacao-backend\Repository\bin\Release\Repository.dll
+C:\dev\make2u\locacao-backend\Repository\bin\Release\Repository.pdb
+C:\dev\make2u\locacao-backend\Repository\bin\Release\Domain.dll
+C:\dev\make2u\locacao-backend\Repository\bin\Release\EntityFramework.dll
+C:\dev\make2u\locacao-backend\Repository\bin\Release\EntityFramework.SqlServer.dll
+C:\dev\make2u\locacao-backend\Repository\bin\Release\MySql.Data.dll
+C:\dev\make2u\locacao-backend\Repository\bin\Release\MySql.Data.Entity.EF6.dll
+C:\dev\make2u\locacao-backend\Repository\bin\Release\Domain.pdb
+C:\dev\make2u\locacao-backend\Repository\bin\Release\Domain.dll.config
+C:\dev\make2u\locacao-backend\Repository\bin\Release\EntityFramework.xml
+C:\dev\make2u\locacao-backend\Repository\bin\Release\EntityFramework.SqlServer.xml
+C:\dev\make2u\locacao-backend\Repository\bin\Release\MySql.Data.xml
+C:\dev\make2u\locacao-backend\Repository\bin\Release\MySql.Data.Entity.EF6.xml
+C:\dev\make2u\locacao-backend\Repository\obj\Release\Repository.csprojAssemblyReference.cache
+C:\dev\make2u\locacao-backend\Repository\obj\Release\Repository.csproj.CoreCompileInputs.cache
+C:\dev\make2u\locacao-backend\Repository\obj\Release\Repository.csproj.CopyComplete
+C:\dev\make2u\locacao-backend\Repository\obj\Release\Repository.dll
+C:\dev\make2u\locacao-backend\Repository\obj\Release\Repository.pdb
+C:\dev\Inewaction\locacao-backend\Repository\bin\Release\Repository.dll.config
+C:\dev\Inewaction\locacao-backend\Repository\bin\Release\Repository.dll
+C:\dev\Inewaction\locacao-backend\Repository\bin\Release\Repository.pdb
+C:\dev\Inewaction\locacao-backend\Repository\bin\Release\Domain.dll
+C:\dev\Inewaction\locacao-backend\Repository\bin\Release\EntityFramework.dll
+C:\dev\Inewaction\locacao-backend\Repository\bin\Release\EntityFramework.SqlServer.dll
+C:\dev\Inewaction\locacao-backend\Repository\bin\Release\MySql.Data.dll
+C:\dev\Inewaction\locacao-backend\Repository\bin\Release\MySql.Data.Entity.EF6.dll
+C:\dev\Inewaction\locacao-backend\Repository\bin\Release\Domain.pdb
+C:\dev\Inewaction\locacao-backend\Repository\bin\Release\Domain.dll.config
+C:\dev\Inewaction\locacao-backend\Repository\bin\Release\EntityFramework.xml
+C:\dev\Inewaction\locacao-backend\Repository\bin\Release\EntityFramework.SqlServer.xml
+C:\dev\Inewaction\locacao-backend\Repository\bin\Release\MySql.Data.xml
+C:\dev\Inewaction\locacao-backend\Repository\bin\Release\MySql.Data.Entity.EF6.xml
+C:\dev\Inewaction\locacao-backend\Repository\obj\Release\Repository.csprojAssemblyReference.cache
+C:\dev\Inewaction\locacao-backend\Repository\obj\Release\Repository.csproj.CoreCompileInputs.cache
+C:\dev\Inewaction\locacao-backend\Repository\obj\Release\Repository.csproj.CopyComplete
+C:\dev\Inewaction\locacao-backend\Repository\obj\Release\Repository.dll
+C:\dev\Inewaction\locacao-backend\Repository\obj\Release\Repository.pdb
+C:\Users\Charly\Documents\Worckspace\locacao-backend\Repository\bin\Release\Repository.dll.config
+C:\Users\Charly\Documents\Worckspace\locacao-backend\Repository\bin\Release\Repository.dll
+C:\Users\Charly\Documents\Worckspace\locacao-backend\Repository\bin\Release\Repository.pdb
+C:\Users\Charly\Documents\Worckspace\locacao-backend\Repository\bin\Release\Domain.dll
+C:\Users\Charly\Documents\Worckspace\locacao-backend\Repository\bin\Release\EntityFramework.dll
+C:\Users\Charly\Documents\Worckspace\locacao-backend\Repository\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Charly\Documents\Worckspace\locacao-backend\Repository\bin\Release\MySql.Data.dll
+C:\Users\Charly\Documents\Worckspace\locacao-backend\Repository\bin\Release\MySql.Data.Entity.EF6.dll
+C:\Users\Charly\Documents\Worckspace\locacao-backend\Repository\bin\Release\Domain.pdb
+C:\Users\Charly\Documents\Worckspace\locacao-backend\Repository\bin\Release\Domain.dll.config
+C:\Users\Charly\Documents\Worckspace\locacao-backend\Repository\bin\Release\EntityFramework.xml
+C:\Users\Charly\Documents\Worckspace\locacao-backend\Repository\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Charly\Documents\Worckspace\locacao-backend\Repository\bin\Release\MySql.Data.xml
+C:\Users\Charly\Documents\Worckspace\locacao-backend\Repository\bin\Release\MySql.Data.Entity.EF6.xml
+C:\Users\Charly\Documents\Worckspace\locacao-backend\Repository\obj\Release\Repository.csprojAssemblyReference.cache
+C:\Users\Charly\Documents\Worckspace\locacao-backend\Repository\obj\Release\Repository.csproj.CoreCompileInputs.cache
+C:\Users\Charly\Documents\Worckspace\locacao-backend\Repository\obj\Release\Repository.csproj.CopyComplete
+C:\Users\Charly\Documents\Worckspace\locacao-backend\Repository\obj\Release\Repository.dll
+C:\Users\Charly\Documents\Worckspace\locacao-backend\Repository\obj\Release\Repository.pdb
+C:\dev\Inewaction\locacao-backend\Repository\bin\Release\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\dev\Inewaction\locacao-backend\Repository\bin\Release\System.Diagnostics.DiagnosticSource.dll
+C:\dev\Inewaction\locacao-backend\Repository\bin\Release\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\dev\Inewaction\locacao-backend\Repository\bin\Release\System.Diagnostics.DiagnosticSource.xml
+C:\dev\Inewaction\locacao-backend\Repository\bin\Release\Newtonsoft.Json.dll
+C:\dev\Inewaction\locacao-backend\Repository\bin\Release\Newtonsoft.Json.xml
+C:\Desenvolvimento\Inewaction\locacao-backend\Repository\bin\Release\Repository.dll.config
+C:\Desenvolvimento\Inewaction\locacao-backend\Repository\bin\Release\Repository.dll
+C:\Desenvolvimento\Inewaction\locacao-backend\Repository\bin\Release\Repository.pdb
+C:\Desenvolvimento\Inewaction\locacao-backend\Repository\bin\Release\Domain.dll
+C:\Desenvolvimento\Inewaction\locacao-backend\Repository\bin\Release\EntityFramework.dll
+C:\Desenvolvimento\Inewaction\locacao-backend\Repository\bin\Release\EntityFramework.SqlServer.dll
+C:\Desenvolvimento\Inewaction\locacao-backend\Repository\bin\Release\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Desenvolvimento\Inewaction\locacao-backend\Repository\bin\Release\MySql.Data.dll
+C:\Desenvolvimento\Inewaction\locacao-backend\Repository\bin\Release\MySql.Data.Entity.EF6.dll
+C:\Desenvolvimento\Inewaction\locacao-backend\Repository\bin\Release\Newtonsoft.Json.dll
+C:\Desenvolvimento\Inewaction\locacao-backend\Repository\bin\Release\System.Diagnostics.DiagnosticSource.dll
+C:\Desenvolvimento\Inewaction\locacao-backend\Repository\bin\Release\Domain.pdb
+C:\Desenvolvimento\Inewaction\locacao-backend\Repository\bin\Release\Domain.dll.config
+C:\Desenvolvimento\Inewaction\locacao-backend\Repository\bin\Release\EntityFramework.xml
+C:\Desenvolvimento\Inewaction\locacao-backend\Repository\bin\Release\EntityFramework.SqlServer.xml
+C:\Desenvolvimento\Inewaction\locacao-backend\Repository\bin\Release\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Desenvolvimento\Inewaction\locacao-backend\Repository\bin\Release\MySql.Data.xml
+C:\Desenvolvimento\Inewaction\locacao-backend\Repository\bin\Release\MySql.Data.Entity.EF6.xml
+C:\Desenvolvimento\Inewaction\locacao-backend\Repository\bin\Release\Newtonsoft.Json.xml
+C:\Desenvolvimento\Inewaction\locacao-backend\Repository\bin\Release\System.Diagnostics.DiagnosticSource.xml
+C:\Desenvolvimento\Inewaction\locacao-backend\Repository\obj\Release\Repository.csprojAssemblyReference.cache
+C:\Desenvolvimento\Inewaction\locacao-backend\Repository\obj\Release\Repository.csproj.CoreCompileInputs.cache
+C:\Desenvolvimento\Inewaction\locacao-backend\Repository\obj\Release\Repository.csproj.CopyComplete
+C:\Desenvolvimento\Inewaction\locacao-backend\Repository\obj\Release\Repository.dll
+C:\Desenvolvimento\Inewaction\locacao-backend\Repository\obj\Release\Repository.pdb

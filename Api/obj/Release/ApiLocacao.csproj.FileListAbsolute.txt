@@ -1,0 +1,762 @@
+C:\Users\PROG-MASTER\Documents\locacao-backend\ApiDelivery\bin\ApplicationInsights.config
+C:\Users\PROG-MASTER\Documents\locacao-backend\ApiDelivery\bin\ApiDelivery.dll.config
+C:\Users\PROG-MASTER\Documents\locacao-backend\ApiDelivery\bin\ApiDelivery.dll
+C:\Users\PROG-MASTER\Documents\locacao-backend\ApiDelivery\bin\ApiDelivery.pdb
+C:\Users\PROG-MASTER\Documents\locacao-backend\ApiDelivery\bin\roslyn\csc.exe
+C:\Users\PROG-MASTER\Documents\locacao-backend\ApiDelivery\bin\roslyn\csc.exe.config
+C:\Users\PROG-MASTER\Documents\locacao-backend\ApiDelivery\bin\roslyn\csc.rsp
+C:\Users\PROG-MASTER\Documents\locacao-backend\ApiDelivery\bin\roslyn\csi.exe
+C:\Users\PROG-MASTER\Documents\locacao-backend\ApiDelivery\bin\roslyn\csi.exe.config
+C:\Users\PROG-MASTER\Documents\locacao-backend\ApiDelivery\bin\roslyn\csi.rsp
+C:\Users\PROG-MASTER\Documents\locacao-backend\ApiDelivery\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\PROG-MASTER\Documents\locacao-backend\ApiDelivery\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\PROG-MASTER\Documents\locacao-backend\ApiDelivery\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\PROG-MASTER\Documents\locacao-backend\ApiDelivery\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\PROG-MASTER\Documents\locacao-backend\ApiDelivery\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\PROG-MASTER\Documents\locacao-backend\ApiDelivery\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\PROG-MASTER\Documents\locacao-backend\ApiDelivery\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\PROG-MASTER\Documents\locacao-backend\ApiDelivery\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\PROG-MASTER\Documents\locacao-backend\ApiDelivery\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\PROG-MASTER\Documents\locacao-backend\ApiDelivery\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\PROG-MASTER\Documents\locacao-backend\ApiDelivery\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\PROG-MASTER\Documents\locacao-backend\ApiDelivery\bin\roslyn\System.AppContext.dll
+C:\Users\PROG-MASTER\Documents\locacao-backend\ApiDelivery\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\PROG-MASTER\Documents\locacao-backend\ApiDelivery\bin\roslyn\System.Console.dll
+C:\Users\PROG-MASTER\Documents\locacao-backend\ApiDelivery\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\PROG-MASTER\Documents\locacao-backend\ApiDelivery\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\PROG-MASTER\Documents\locacao-backend\ApiDelivery\bin\roslyn\System.IO.Compression.dll
+C:\Users\PROG-MASTER\Documents\locacao-backend\ApiDelivery\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\PROG-MASTER\Documents\locacao-backend\ApiDelivery\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\PROG-MASTER\Documents\locacao-backend\ApiDelivery\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\PROG-MASTER\Documents\locacao-backend\ApiDelivery\bin\roslyn\System.IO.Pipes.dll
+C:\Users\PROG-MASTER\Documents\locacao-backend\ApiDelivery\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\PROG-MASTER\Documents\locacao-backend\ApiDelivery\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\PROG-MASTER\Documents\locacao-backend\ApiDelivery\bin\roslyn\System.Security.Claims.dll
+C:\Users\PROG-MASTER\Documents\locacao-backend\ApiDelivery\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\PROG-MASTER\Documents\locacao-backend\ApiDelivery\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\PROG-MASTER\Documents\locacao-backend\ApiDelivery\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\PROG-MASTER\Documents\locacao-backend\ApiDelivery\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\PROG-MASTER\Documents\locacao-backend\ApiDelivery\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\PROG-MASTER\Documents\locacao-backend\ApiDelivery\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\PROG-MASTER\Documents\locacao-backend\ApiDelivery\bin\roslyn\System.ValueTuple.dll
+C:\Users\PROG-MASTER\Documents\locacao-backend\ApiDelivery\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\PROG-MASTER\Documents\locacao-backend\ApiDelivery\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\PROG-MASTER\Documents\locacao-backend\ApiDelivery\bin\roslyn\System.Xml.XPath.dll
+C:\Users\PROG-MASTER\Documents\locacao-backend\ApiDelivery\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\PROG-MASTER\Documents\locacao-backend\ApiDelivery\bin\roslyn\vbc.exe
+C:\Users\PROG-MASTER\Documents\locacao-backend\ApiDelivery\bin\roslyn\vbc.exe.config
+C:\Users\PROG-MASTER\Documents\locacao-backend\ApiDelivery\bin\roslyn\vbc.rsp
+C:\Users\PROG-MASTER\Documents\locacao-backend\ApiDelivery\bin\roslyn\VBCSCompiler.exe
+C:\Users\PROG-MASTER\Documents\locacao-backend\ApiDelivery\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\PROG-MASTER\Documents\locacao-backend\ApiDelivery\bin\Antlr3.Runtime.dll
+C:\Users\PROG-MASTER\Documents\locacao-backend\ApiDelivery\bin\Busines.dll
+C:\Users\PROG-MASTER\Documents\locacao-backend\ApiDelivery\bin\Domain.dll
+C:\Users\PROG-MASTER\Documents\locacao-backend\ApiDelivery\bin\EntityFramework.dll
+C:\Users\PROG-MASTER\Documents\locacao-backend\ApiDelivery\bin\EntityFramework.SqlServer.dll
+C:\Users\PROG-MASTER\Documents\locacao-backend\ApiDelivery\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\PROG-MASTER\Documents\locacao-backend\ApiDelivery\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\PROG-MASTER\Documents\locacao-backend\ApiDelivery\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\PROG-MASTER\Documents\locacao-backend\ApiDelivery\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\PROG-MASTER\Documents\locacao-backend\ApiDelivery\bin\Microsoft.AI.Web.dll
+C:\Users\PROG-MASTER\Documents\locacao-backend\ApiDelivery\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\PROG-MASTER\Documents\locacao-backend\ApiDelivery\bin\Microsoft.ApplicationInsights.dll
+C:\Users\PROG-MASTER\Documents\locacao-backend\ApiDelivery\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\PROG-MASTER\Documents\locacao-backend\ApiDelivery\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\PROG-MASTER\Documents\locacao-backend\ApiDelivery\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\PROG-MASTER\Documents\locacao-backend\ApiDelivery\bin\MySql.Data.dll
+C:\Users\PROG-MASTER\Documents\locacao-backend\ApiDelivery\bin\MySql.Data.Entity.EF6.dll
+C:\Users\PROG-MASTER\Documents\locacao-backend\ApiDelivery\bin\Newtonsoft.Json.dll
+C:\Users\PROG-MASTER\Documents\locacao-backend\ApiDelivery\bin\Repository.dll
+C:\Users\PROG-MASTER\Documents\locacao-backend\ApiDelivery\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\PROG-MASTER\Documents\locacao-backend\ApiDelivery\bin\System.Net.Http.Formatting.dll
+C:\Users\PROG-MASTER\Documents\locacao-backend\ApiDelivery\bin\System.Web.Cors.dll
+C:\Users\PROG-MASTER\Documents\locacao-backend\ApiDelivery\bin\System.Web.Helpers.dll
+C:\Users\PROG-MASTER\Documents\locacao-backend\ApiDelivery\bin\System.Web.Http.Cors.dll
+C:\Users\PROG-MASTER\Documents\locacao-backend\ApiDelivery\bin\System.Web.Http.dll
+C:\Users\PROG-MASTER\Documents\locacao-backend\ApiDelivery\bin\System.Web.Http.WebHost.dll
+C:\Users\PROG-MASTER\Documents\locacao-backend\ApiDelivery\bin\System.Web.Mvc.dll
+C:\Users\PROG-MASTER\Documents\locacao-backend\ApiDelivery\bin\System.Web.Optimization.dll
+C:\Users\PROG-MASTER\Documents\locacao-backend\ApiDelivery\bin\System.Web.Razor.dll
+C:\Users\PROG-MASTER\Documents\locacao-backend\ApiDelivery\bin\System.Web.WebPages.Deployment.dll
+C:\Users\PROG-MASTER\Documents\locacao-backend\ApiDelivery\bin\System.Web.WebPages.dll
+C:\Users\PROG-MASTER\Documents\locacao-backend\ApiDelivery\bin\System.Web.WebPages.Razor.dll
+C:\Users\PROG-MASTER\Documents\locacao-backend\ApiDelivery\bin\WebGrease.dll
+C:\Users\PROG-MASTER\Documents\locacao-backend\ApiDelivery\bin\Busines.pdb
+C:\Users\PROG-MASTER\Documents\locacao-backend\ApiDelivery\bin\Busines.dll.config
+C:\Users\PROG-MASTER\Documents\locacao-backend\ApiDelivery\bin\Domain.pdb
+C:\Users\PROG-MASTER\Documents\locacao-backend\ApiDelivery\bin\Domain.dll.config
+C:\Users\PROG-MASTER\Documents\locacao-backend\ApiDelivery\bin\Repository.pdb
+C:\Users\PROG-MASTER\Documents\locacao-backend\ApiDelivery\bin\Repository.dll.config
+C:\Users\PROG-MASTER\Documents\locacao-backend\ApiDelivery\bin\EntityFramework.xml
+C:\Users\PROG-MASTER\Documents\locacao-backend\ApiDelivery\bin\EntityFramework.SqlServer.xml
+C:\Users\PROG-MASTER\Documents\locacao-backend\ApiDelivery\bin\MySql.Data.xml
+C:\Users\PROG-MASTER\Documents\locacao-backend\ApiDelivery\bin\MySql.Data.Entity.EF6.xml
+C:\Users\PROG-MASTER\Documents\locacao-backend\ApiDelivery\bin\System.Net.Http.Formatting.xml
+C:\Users\PROG-MASTER\Documents\locacao-backend\ApiDelivery\bin\System.Web.Http.xml
+C:\Users\PROG-MASTER\Documents\locacao-backend\ApiDelivery\bin\System.Web.Http.Cors.xml
+C:\Users\PROG-MASTER\Documents\locacao-backend\ApiDelivery\bin\Newtonsoft.Json.xml
+C:\Users\PROG-MASTER\Documents\locacao-backend\ApiDelivery\bin\System.Web.Helpers.xml
+C:\Users\PROG-MASTER\Documents\locacao-backend\ApiDelivery\bin\System.Web.Http.WebHost.xml
+C:\Users\PROG-MASTER\Documents\locacao-backend\ApiDelivery\bin\System.Web.Mvc.xml
+C:\Users\PROG-MASTER\Documents\locacao-backend\ApiDelivery\bin\System.Web.Optimization.xml
+C:\Users\PROG-MASTER\Documents\locacao-backend\ApiDelivery\bin\System.Web.Razor.xml
+C:\Users\PROG-MASTER\Documents\locacao-backend\ApiDelivery\bin\System.Web.WebPages.xml
+C:\Users\PROG-MASTER\Documents\locacao-backend\ApiDelivery\bin\System.Web.WebPages.Deployment.xml
+C:\Users\PROG-MASTER\Documents\locacao-backend\ApiDelivery\bin\System.Web.WebPages.Razor.xml
+C:\Users\PROG-MASTER\Documents\locacao-backend\ApiDelivery\bin\Antlr3.Runtime.pdb
+C:\Users\PROG-MASTER\Documents\locacao-backend\ApiDelivery\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\PROG-MASTER\Documents\locacao-backend\ApiDelivery\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\PROG-MASTER\Documents\locacao-backend\ApiDelivery\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\PROG-MASTER\Documents\locacao-backend\ApiDelivery\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\PROG-MASTER\Documents\locacao-backend\ApiDelivery\bin\Microsoft.AI.Web.xml
+C:\Users\PROG-MASTER\Documents\locacao-backend\ApiDelivery\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\PROG-MASTER\Documents\locacao-backend\ApiDelivery\bin\pt-br\System.Net.Http.Formatting.resources.dll
+C:\Users\PROG-MASTER\Documents\locacao-backend\ApiDelivery\bin\pt-br\System.Web.Http.resources.dll
+C:\Users\PROG-MASTER\Documents\locacao-backend\ApiDelivery\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\PROG-MASTER\Documents\locacao-backend\ApiDelivery\bin\pt-br\System.Web.Http.WebHost.resources.dll
+C:\Users\PROG-MASTER\Documents\locacao-backend\ApiDelivery\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\PROG-MASTER\Documents\locacao-backend\ApiDelivery\bin\pt-br\System.Web.Optimization.resources.dll
+C:\Users\PROG-MASTER\Documents\locacao-backend\ApiDelivery\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\PROG-MASTER\Documents\locacao-backend\ApiDelivery\bin\pt-br\System.Web.WebPages.resources.dll
+C:\Users\PROG-MASTER\Documents\locacao-backend\ApiDelivery\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\Users\PROG-MASTER\Documents\locacao-backend\ApiDelivery\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\Users\PROG-MASTER\Documents\locacao-backend\ApiDelivery\obj\Release\ApiLocacao.csprojAssemblyReference.cache
+C:\Users\PROG-MASTER\Documents\locacao-backend\ApiDelivery\obj\Release\ApiLocacao.csproj.CoreCompileInputs.cache
+C:\Users\PROG-MASTER\Documents\locacao-backend\ApiDelivery\obj\Release\ApiLocacao.csproj.CopyComplete
+C:\Users\PROG-MASTER\Documents\locacao-backend\ApiDelivery\obj\Release\ApiDelivery.dll
+C:\Users\PROG-MASTER\Documents\locacao-backend\ApiDelivery\obj\Release\ApiDelivery.pdb
+C:\Users\OMEGA 02\Documents\locacao-backend\ApiDelivery\bin\ApplicationInsights.config
+C:\Users\OMEGA 02\Documents\locacao-backend\ApiDelivery\bin\ApiDelivery.dll.config
+C:\Users\OMEGA 02\Documents\locacao-backend\ApiDelivery\bin\ApiDelivery.dll
+C:\Users\OMEGA 02\Documents\locacao-backend\ApiDelivery\bin\ApiDelivery.pdb
+C:\Users\OMEGA 02\Documents\locacao-backend\ApiDelivery\bin\roslyn\csc.exe
+C:\Users\OMEGA 02\Documents\locacao-backend\ApiDelivery\bin\roslyn\csc.exe.config
+C:\Users\OMEGA 02\Documents\locacao-backend\ApiDelivery\bin\roslyn\csc.rsp
+C:\Users\OMEGA 02\Documents\locacao-backend\ApiDelivery\bin\roslyn\csi.exe
+C:\Users\OMEGA 02\Documents\locacao-backend\ApiDelivery\bin\roslyn\csi.exe.config
+C:\Users\OMEGA 02\Documents\locacao-backend\ApiDelivery\bin\roslyn\csi.rsp
+C:\Users\OMEGA 02\Documents\locacao-backend\ApiDelivery\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\OMEGA 02\Documents\locacao-backend\ApiDelivery\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\OMEGA 02\Documents\locacao-backend\ApiDelivery\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\OMEGA 02\Documents\locacao-backend\ApiDelivery\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\OMEGA 02\Documents\locacao-backend\ApiDelivery\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\OMEGA 02\Documents\locacao-backend\ApiDelivery\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\OMEGA 02\Documents\locacao-backend\ApiDelivery\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\OMEGA 02\Documents\locacao-backend\ApiDelivery\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\OMEGA 02\Documents\locacao-backend\ApiDelivery\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\OMEGA 02\Documents\locacao-backend\ApiDelivery\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\OMEGA 02\Documents\locacao-backend\ApiDelivery\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\OMEGA 02\Documents\locacao-backend\ApiDelivery\bin\roslyn\System.AppContext.dll
+C:\Users\OMEGA 02\Documents\locacao-backend\ApiDelivery\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\OMEGA 02\Documents\locacao-backend\ApiDelivery\bin\roslyn\System.Console.dll
+C:\Users\OMEGA 02\Documents\locacao-backend\ApiDelivery\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\OMEGA 02\Documents\locacao-backend\ApiDelivery\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\OMEGA 02\Documents\locacao-backend\ApiDelivery\bin\roslyn\System.IO.Compression.dll
+C:\Users\OMEGA 02\Documents\locacao-backend\ApiDelivery\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\OMEGA 02\Documents\locacao-backend\ApiDelivery\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\OMEGA 02\Documents\locacao-backend\ApiDelivery\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\OMEGA 02\Documents\locacao-backend\ApiDelivery\bin\roslyn\System.IO.Pipes.dll
+C:\Users\OMEGA 02\Documents\locacao-backend\ApiDelivery\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\OMEGA 02\Documents\locacao-backend\ApiDelivery\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\OMEGA 02\Documents\locacao-backend\ApiDelivery\bin\roslyn\System.Security.Claims.dll
+C:\Users\OMEGA 02\Documents\locacao-backend\ApiDelivery\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\OMEGA 02\Documents\locacao-backend\ApiDelivery\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\OMEGA 02\Documents\locacao-backend\ApiDelivery\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\OMEGA 02\Documents\locacao-backend\ApiDelivery\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\OMEGA 02\Documents\locacao-backend\ApiDelivery\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\OMEGA 02\Documents\locacao-backend\ApiDelivery\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\OMEGA 02\Documents\locacao-backend\ApiDelivery\bin\roslyn\System.ValueTuple.dll
+C:\Users\OMEGA 02\Documents\locacao-backend\ApiDelivery\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\OMEGA 02\Documents\locacao-backend\ApiDelivery\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\OMEGA 02\Documents\locacao-backend\ApiDelivery\bin\roslyn\System.Xml.XPath.dll
+C:\Users\OMEGA 02\Documents\locacao-backend\ApiDelivery\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\OMEGA 02\Documents\locacao-backend\ApiDelivery\bin\roslyn\vbc.exe
+C:\Users\OMEGA 02\Documents\locacao-backend\ApiDelivery\bin\roslyn\vbc.exe.config
+C:\Users\OMEGA 02\Documents\locacao-backend\ApiDelivery\bin\roslyn\vbc.rsp
+C:\Users\OMEGA 02\Documents\locacao-backend\ApiDelivery\bin\roslyn\VBCSCompiler.exe
+C:\Users\OMEGA 02\Documents\locacao-backend\ApiDelivery\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\OMEGA 02\Documents\locacao-backend\ApiDelivery\bin\Antlr3.Runtime.dll
+C:\Users\OMEGA 02\Documents\locacao-backend\ApiDelivery\bin\Busines.dll
+C:\Users\OMEGA 02\Documents\locacao-backend\ApiDelivery\bin\Domain.dll
+C:\Users\OMEGA 02\Documents\locacao-backend\ApiDelivery\bin\EntityFramework.dll
+C:\Users\OMEGA 02\Documents\locacao-backend\ApiDelivery\bin\EntityFramework.SqlServer.dll
+C:\Users\OMEGA 02\Documents\locacao-backend\ApiDelivery\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\OMEGA 02\Documents\locacao-backend\ApiDelivery\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\OMEGA 02\Documents\locacao-backend\ApiDelivery\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\OMEGA 02\Documents\locacao-backend\ApiDelivery\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\OMEGA 02\Documents\locacao-backend\ApiDelivery\bin\Microsoft.AI.Web.dll
+C:\Users\OMEGA 02\Documents\locacao-backend\ApiDelivery\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\OMEGA 02\Documents\locacao-backend\ApiDelivery\bin\Microsoft.ApplicationInsights.dll
+C:\Users\OMEGA 02\Documents\locacao-backend\ApiDelivery\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\OMEGA 02\Documents\locacao-backend\ApiDelivery\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\OMEGA 02\Documents\locacao-backend\ApiDelivery\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\OMEGA 02\Documents\locacao-backend\ApiDelivery\bin\MySql.Data.dll
+C:\Users\OMEGA 02\Documents\locacao-backend\ApiDelivery\bin\MySql.Data.Entity.EF6.dll
+C:\Users\OMEGA 02\Documents\locacao-backend\ApiDelivery\bin\Newtonsoft.Json.dll
+C:\Users\OMEGA 02\Documents\locacao-backend\ApiDelivery\bin\Repository.dll
+C:\Users\OMEGA 02\Documents\locacao-backend\ApiDelivery\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\OMEGA 02\Documents\locacao-backend\ApiDelivery\bin\System.Net.Http.Formatting.dll
+C:\Users\OMEGA 02\Documents\locacao-backend\ApiDelivery\bin\System.Web.Cors.dll
+C:\Users\OMEGA 02\Documents\locacao-backend\ApiDelivery\bin\System.Web.Helpers.dll
+C:\Users\OMEGA 02\Documents\locacao-backend\ApiDelivery\bin\System.Web.Http.Cors.dll
+C:\Users\OMEGA 02\Documents\locacao-backend\ApiDelivery\bin\System.Web.Http.dll
+C:\Users\OMEGA 02\Documents\locacao-backend\ApiDelivery\bin\System.Web.Http.WebHost.dll
+C:\Users\OMEGA 02\Documents\locacao-backend\ApiDelivery\bin\System.Web.Mvc.dll
+C:\Users\OMEGA 02\Documents\locacao-backend\ApiDelivery\bin\System.Web.Optimization.dll
+C:\Users\OMEGA 02\Documents\locacao-backend\ApiDelivery\bin\System.Web.Razor.dll
+C:\Users\OMEGA 02\Documents\locacao-backend\ApiDelivery\bin\System.Web.WebPages.Deployment.dll
+C:\Users\OMEGA 02\Documents\locacao-backend\ApiDelivery\bin\System.Web.WebPages.dll
+C:\Users\OMEGA 02\Documents\locacao-backend\ApiDelivery\bin\System.Web.WebPages.Razor.dll
+C:\Users\OMEGA 02\Documents\locacao-backend\ApiDelivery\bin\WebGrease.dll
+C:\Users\OMEGA 02\Documents\locacao-backend\ApiDelivery\bin\Busines.pdb
+C:\Users\OMEGA 02\Documents\locacao-backend\ApiDelivery\bin\Busines.dll.config
+C:\Users\OMEGA 02\Documents\locacao-backend\ApiDelivery\bin\Domain.pdb
+C:\Users\OMEGA 02\Documents\locacao-backend\ApiDelivery\bin\Domain.dll.config
+C:\Users\OMEGA 02\Documents\locacao-backend\ApiDelivery\bin\Repository.pdb
+C:\Users\OMEGA 02\Documents\locacao-backend\ApiDelivery\bin\Repository.dll.config
+C:\Users\OMEGA 02\Documents\locacao-backend\ApiDelivery\bin\EntityFramework.xml
+C:\Users\OMEGA 02\Documents\locacao-backend\ApiDelivery\bin\EntityFramework.SqlServer.xml
+C:\Users\OMEGA 02\Documents\locacao-backend\ApiDelivery\bin\MySql.Data.xml
+C:\Users\OMEGA 02\Documents\locacao-backend\ApiDelivery\bin\MySql.Data.Entity.EF6.xml
+C:\Users\OMEGA 02\Documents\locacao-backend\ApiDelivery\bin\System.Net.Http.Formatting.xml
+C:\Users\OMEGA 02\Documents\locacao-backend\ApiDelivery\bin\System.Web.Http.xml
+C:\Users\OMEGA 02\Documents\locacao-backend\ApiDelivery\bin\System.Web.Http.Cors.xml
+C:\Users\OMEGA 02\Documents\locacao-backend\ApiDelivery\bin\Newtonsoft.Json.xml
+C:\Users\OMEGA 02\Documents\locacao-backend\ApiDelivery\bin\System.Web.Helpers.xml
+C:\Users\OMEGA 02\Documents\locacao-backend\ApiDelivery\bin\System.Web.Http.WebHost.xml
+C:\Users\OMEGA 02\Documents\locacao-backend\ApiDelivery\bin\System.Web.Mvc.xml
+C:\Users\OMEGA 02\Documents\locacao-backend\ApiDelivery\bin\System.Web.Optimization.xml
+C:\Users\OMEGA 02\Documents\locacao-backend\ApiDelivery\bin\System.Web.Razor.xml
+C:\Users\OMEGA 02\Documents\locacao-backend\ApiDelivery\bin\System.Web.WebPages.xml
+C:\Users\OMEGA 02\Documents\locacao-backend\ApiDelivery\bin\System.Web.WebPages.Deployment.xml
+C:\Users\OMEGA 02\Documents\locacao-backend\ApiDelivery\bin\System.Web.WebPages.Razor.xml
+C:\Users\OMEGA 02\Documents\locacao-backend\ApiDelivery\bin\Antlr3.Runtime.pdb
+C:\Users\OMEGA 02\Documents\locacao-backend\ApiDelivery\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\OMEGA 02\Documents\locacao-backend\ApiDelivery\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\OMEGA 02\Documents\locacao-backend\ApiDelivery\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\OMEGA 02\Documents\locacao-backend\ApiDelivery\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\OMEGA 02\Documents\locacao-backend\ApiDelivery\bin\Microsoft.AI.Web.xml
+C:\Users\OMEGA 02\Documents\locacao-backend\ApiDelivery\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\OMEGA 02\Documents\locacao-backend\ApiDelivery\bin\pt-br\System.Net.Http.Formatting.resources.dll
+C:\Users\OMEGA 02\Documents\locacao-backend\ApiDelivery\bin\pt-br\System.Web.Http.resources.dll
+C:\Users\OMEGA 02\Documents\locacao-backend\ApiDelivery\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\OMEGA 02\Documents\locacao-backend\ApiDelivery\bin\pt-br\System.Web.Http.WebHost.resources.dll
+C:\Users\OMEGA 02\Documents\locacao-backend\ApiDelivery\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\OMEGA 02\Documents\locacao-backend\ApiDelivery\bin\pt-br\System.Web.Optimization.resources.dll
+C:\Users\OMEGA 02\Documents\locacao-backend\ApiDelivery\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\OMEGA 02\Documents\locacao-backend\ApiDelivery\bin\pt-br\System.Web.WebPages.resources.dll
+C:\Users\OMEGA 02\Documents\locacao-backend\ApiDelivery\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\Users\OMEGA 02\Documents\locacao-backend\ApiDelivery\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\Users\OMEGA 02\Documents\locacao-backend\ApiDelivery\obj\Release\ApiLocacao.csprojAssemblyReference.cache
+C:\Users\OMEGA 02\Documents\locacao-backend\ApiDelivery\obj\Release\ApiLocacao.csproj.CoreCompileInputs.cache
+C:\Users\OMEGA 02\Documents\locacao-backend\ApiDelivery\obj\Release\ApiLocacao.csproj.CopyComplete
+C:\Users\OMEGA 02\Documents\locacao-backend\ApiDelivery\obj\Release\ApiDelivery.dll
+C:\Users\OMEGA 02\Documents\locacao-backend\ApiDelivery\obj\Release\ApiDelivery.pdb
+C:\dev\make2u\locacao-backend\ApiDelivery\bin\ApplicationInsights.config
+C:\dev\make2u\locacao-backend\ApiDelivery\bin\ApiDelivery.dll.config
+C:\dev\make2u\locacao-backend\ApiDelivery\bin\ApiDelivery.dll
+C:\dev\make2u\locacao-backend\ApiDelivery\bin\ApiDelivery.pdb
+C:\dev\make2u\locacao-backend\ApiDelivery\bin\roslyn\csc.exe
+C:\dev\make2u\locacao-backend\ApiDelivery\bin\roslyn\csc.exe.config
+C:\dev\make2u\locacao-backend\ApiDelivery\bin\roslyn\csc.rsp
+C:\dev\make2u\locacao-backend\ApiDelivery\bin\roslyn\csi.exe
+C:\dev\make2u\locacao-backend\ApiDelivery\bin\roslyn\csi.exe.config
+C:\dev\make2u\locacao-backend\ApiDelivery\bin\roslyn\csi.rsp
+C:\dev\make2u\locacao-backend\ApiDelivery\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\dev\make2u\locacao-backend\ApiDelivery\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\dev\make2u\locacao-backend\ApiDelivery\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\dev\make2u\locacao-backend\ApiDelivery\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\dev\make2u\locacao-backend\ApiDelivery\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\dev\make2u\locacao-backend\ApiDelivery\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\dev\make2u\locacao-backend\ApiDelivery\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\dev\make2u\locacao-backend\ApiDelivery\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\dev\make2u\locacao-backend\ApiDelivery\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\dev\make2u\locacao-backend\ApiDelivery\bin\roslyn\Microsoft.Managed.Core.targets
+C:\dev\make2u\locacao-backend\ApiDelivery\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\dev\make2u\locacao-backend\ApiDelivery\bin\roslyn\System.AppContext.dll
+C:\dev\make2u\locacao-backend\ApiDelivery\bin\roslyn\System.Collections.Immutable.dll
+C:\dev\make2u\locacao-backend\ApiDelivery\bin\roslyn\System.Console.dll
+C:\dev\make2u\locacao-backend\ApiDelivery\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\dev\make2u\locacao-backend\ApiDelivery\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\dev\make2u\locacao-backend\ApiDelivery\bin\roslyn\System.IO.Compression.dll
+C:\dev\make2u\locacao-backend\ApiDelivery\bin\roslyn\System.IO.FileSystem.dll
+C:\dev\make2u\locacao-backend\ApiDelivery\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\dev\make2u\locacao-backend\ApiDelivery\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\dev\make2u\locacao-backend\ApiDelivery\bin\roslyn\System.IO.Pipes.dll
+C:\dev\make2u\locacao-backend\ApiDelivery\bin\roslyn\System.Reflection.Metadata.dll
+C:\dev\make2u\locacao-backend\ApiDelivery\bin\roslyn\System.Security.AccessControl.dll
+C:\dev\make2u\locacao-backend\ApiDelivery\bin\roslyn\System.Security.Claims.dll
+C:\dev\make2u\locacao-backend\ApiDelivery\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\dev\make2u\locacao-backend\ApiDelivery\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\dev\make2u\locacao-backend\ApiDelivery\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\dev\make2u\locacao-backend\ApiDelivery\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\dev\make2u\locacao-backend\ApiDelivery\bin\roslyn\System.Security.Principal.Windows.dll
+C:\dev\make2u\locacao-backend\ApiDelivery\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\dev\make2u\locacao-backend\ApiDelivery\bin\roslyn\System.ValueTuple.dll
+C:\dev\make2u\locacao-backend\ApiDelivery\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\dev\make2u\locacao-backend\ApiDelivery\bin\roslyn\System.Xml.XmlDocument.dll
+C:\dev\make2u\locacao-backend\ApiDelivery\bin\roslyn\System.Xml.XPath.dll
+C:\dev\make2u\locacao-backend\ApiDelivery\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\dev\make2u\locacao-backend\ApiDelivery\bin\roslyn\vbc.exe
+C:\dev\make2u\locacao-backend\ApiDelivery\bin\roslyn\vbc.exe.config
+C:\dev\make2u\locacao-backend\ApiDelivery\bin\roslyn\vbc.rsp
+C:\dev\make2u\locacao-backend\ApiDelivery\bin\roslyn\VBCSCompiler.exe
+C:\dev\make2u\locacao-backend\ApiDelivery\bin\roslyn\VBCSCompiler.exe.config
+C:\dev\make2u\locacao-backend\ApiDelivery\bin\Antlr3.Runtime.dll
+C:\dev\make2u\locacao-backend\ApiDelivery\bin\Busines.dll
+C:\dev\make2u\locacao-backend\ApiDelivery\bin\Domain.dll
+C:\dev\make2u\locacao-backend\ApiDelivery\bin\EntityFramework.dll
+C:\dev\make2u\locacao-backend\ApiDelivery\bin\EntityFramework.SqlServer.dll
+C:\dev\make2u\locacao-backend\ApiDelivery\bin\Microsoft.AI.Agent.Intercept.dll
+C:\dev\make2u\locacao-backend\ApiDelivery\bin\Microsoft.AI.DependencyCollector.dll
+C:\dev\make2u\locacao-backend\ApiDelivery\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\dev\make2u\locacao-backend\ApiDelivery\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\dev\make2u\locacao-backend\ApiDelivery\bin\Microsoft.AI.Web.dll
+C:\dev\make2u\locacao-backend\ApiDelivery\bin\Microsoft.AI.WindowsServer.dll
+C:\dev\make2u\locacao-backend\ApiDelivery\bin\Microsoft.ApplicationInsights.dll
+C:\dev\make2u\locacao-backend\ApiDelivery\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\dev\make2u\locacao-backend\ApiDelivery\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\dev\make2u\locacao-backend\ApiDelivery\bin\Microsoft.Web.Infrastructure.dll
+C:\dev\make2u\locacao-backend\ApiDelivery\bin\MySql.Data.dll
+C:\dev\make2u\locacao-backend\ApiDelivery\bin\MySql.Data.Entity.EF6.dll
+C:\dev\make2u\locacao-backend\ApiDelivery\bin\Newtonsoft.Json.dll
+C:\dev\make2u\locacao-backend\ApiDelivery\bin\Repository.dll
+C:\dev\make2u\locacao-backend\ApiDelivery\bin\System.Diagnostics.DiagnosticSource.dll
+C:\dev\make2u\locacao-backend\ApiDelivery\bin\System.Net.Http.Formatting.dll
+C:\dev\make2u\locacao-backend\ApiDelivery\bin\System.Web.Cors.dll
+C:\dev\make2u\locacao-backend\ApiDelivery\bin\System.Web.Helpers.dll
+C:\dev\make2u\locacao-backend\ApiDelivery\bin\System.Web.Http.Cors.dll
+C:\dev\make2u\locacao-backend\ApiDelivery\bin\System.Web.Http.dll
+C:\dev\make2u\locacao-backend\ApiDelivery\bin\System.Web.Http.WebHost.dll
+C:\dev\make2u\locacao-backend\ApiDelivery\bin\System.Web.Mvc.dll
+C:\dev\make2u\locacao-backend\ApiDelivery\bin\System.Web.Optimization.dll
+C:\dev\make2u\locacao-backend\ApiDelivery\bin\System.Web.Razor.dll
+C:\dev\make2u\locacao-backend\ApiDelivery\bin\System.Web.WebPages.Deployment.dll
+C:\dev\make2u\locacao-backend\ApiDelivery\bin\System.Web.WebPages.dll
+C:\dev\make2u\locacao-backend\ApiDelivery\bin\System.Web.WebPages.Razor.dll
+C:\dev\make2u\locacao-backend\ApiDelivery\bin\WebGrease.dll
+C:\dev\make2u\locacao-backend\ApiDelivery\bin\Busines.pdb
+C:\dev\make2u\locacao-backend\ApiDelivery\bin\Busines.dll.config
+C:\dev\make2u\locacao-backend\ApiDelivery\bin\Domain.pdb
+C:\dev\make2u\locacao-backend\ApiDelivery\bin\Domain.dll.config
+C:\dev\make2u\locacao-backend\ApiDelivery\bin\Repository.pdb
+C:\dev\make2u\locacao-backend\ApiDelivery\bin\Repository.dll.config
+C:\dev\make2u\locacao-backend\ApiDelivery\bin\EntityFramework.xml
+C:\dev\make2u\locacao-backend\ApiDelivery\bin\EntityFramework.SqlServer.xml
+C:\dev\make2u\locacao-backend\ApiDelivery\bin\MySql.Data.xml
+C:\dev\make2u\locacao-backend\ApiDelivery\bin\MySql.Data.Entity.EF6.xml
+C:\dev\make2u\locacao-backend\ApiDelivery\bin\System.Net.Http.Formatting.xml
+C:\dev\make2u\locacao-backend\ApiDelivery\bin\System.Web.Http.xml
+C:\dev\make2u\locacao-backend\ApiDelivery\bin\System.Web.Http.Cors.xml
+C:\dev\make2u\locacao-backend\ApiDelivery\bin\Newtonsoft.Json.xml
+C:\dev\make2u\locacao-backend\ApiDelivery\bin\System.Web.Helpers.xml
+C:\dev\make2u\locacao-backend\ApiDelivery\bin\System.Web.Http.WebHost.xml
+C:\dev\make2u\locacao-backend\ApiDelivery\bin\System.Web.Mvc.xml
+C:\dev\make2u\locacao-backend\ApiDelivery\bin\System.Web.Optimization.xml
+C:\dev\make2u\locacao-backend\ApiDelivery\bin\System.Web.Razor.xml
+C:\dev\make2u\locacao-backend\ApiDelivery\bin\System.Web.WebPages.xml
+C:\dev\make2u\locacao-backend\ApiDelivery\bin\System.Web.WebPages.Deployment.xml
+C:\dev\make2u\locacao-backend\ApiDelivery\bin\System.Web.WebPages.Razor.xml
+C:\dev\make2u\locacao-backend\ApiDelivery\bin\Antlr3.Runtime.pdb
+C:\dev\make2u\locacao-backend\ApiDelivery\bin\System.Diagnostics.DiagnosticSource.xml
+C:\dev\make2u\locacao-backend\ApiDelivery\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\dev\make2u\locacao-backend\ApiDelivery\bin\Microsoft.AI.DependencyCollector.xml
+C:\dev\make2u\locacao-backend\ApiDelivery\bin\Microsoft.AI.WindowsServer.xml
+C:\dev\make2u\locacao-backend\ApiDelivery\bin\Microsoft.AI.Web.xml
+C:\dev\make2u\locacao-backend\ApiDelivery\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\dev\make2u\locacao-backend\ApiDelivery\bin\pt-br\System.Net.Http.Formatting.resources.dll
+C:\dev\make2u\locacao-backend\ApiDelivery\bin\pt-br\System.Web.Http.resources.dll
+C:\dev\make2u\locacao-backend\ApiDelivery\bin\pt-br\System.Web.Helpers.resources.dll
+C:\dev\make2u\locacao-backend\ApiDelivery\bin\pt-br\System.Web.Http.WebHost.resources.dll
+C:\dev\make2u\locacao-backend\ApiDelivery\bin\pt-br\System.Web.Mvc.resources.dll
+C:\dev\make2u\locacao-backend\ApiDelivery\bin\pt-br\System.Web.Optimization.resources.dll
+C:\dev\make2u\locacao-backend\ApiDelivery\bin\pt-br\System.Web.Razor.resources.dll
+C:\dev\make2u\locacao-backend\ApiDelivery\bin\pt-br\System.Web.WebPages.resources.dll
+C:\dev\make2u\locacao-backend\ApiDelivery\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\dev\make2u\locacao-backend\ApiDelivery\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\dev\make2u\locacao-backend\ApiDelivery\obj\Release\ApiLocacao.csprojAssemblyReference.cache
+C:\dev\make2u\locacao-backend\ApiDelivery\obj\Release\ApiLocacao.csproj.CoreCompileInputs.cache
+C:\dev\make2u\locacao-backend\ApiDelivery\obj\Release\ApiLocacao.csproj.CopyComplete
+C:\dev\make2u\locacao-backend\ApiDelivery\obj\Release\ApiDelivery.dll
+C:\dev\make2u\locacao-backend\ApiDelivery\obj\Release\ApiDelivery.pdb
+C:\dev\Inewaction\locacao-backend\ApiDelivery\bin\ApplicationInsights.config
+C:\dev\Inewaction\locacao-backend\ApiDelivery\bin\ApiDelivery.dll.config
+C:\dev\Inewaction\locacao-backend\ApiDelivery\bin\ApiDelivery.dll
+C:\dev\Inewaction\locacao-backend\ApiDelivery\bin\ApiDelivery.pdb
+C:\dev\Inewaction\locacao-backend\ApiDelivery\bin\roslyn\csc.exe
+C:\dev\Inewaction\locacao-backend\ApiDelivery\bin\roslyn\csc.exe.config
+C:\dev\Inewaction\locacao-backend\ApiDelivery\bin\roslyn\csc.rsp
+C:\dev\Inewaction\locacao-backend\ApiDelivery\bin\roslyn\csi.exe
+C:\dev\Inewaction\locacao-backend\ApiDelivery\bin\roslyn\csi.exe.config
+C:\dev\Inewaction\locacao-backend\ApiDelivery\bin\roslyn\csi.rsp
+C:\dev\Inewaction\locacao-backend\ApiDelivery\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\dev\Inewaction\locacao-backend\ApiDelivery\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\dev\Inewaction\locacao-backend\ApiDelivery\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\dev\Inewaction\locacao-backend\ApiDelivery\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\dev\Inewaction\locacao-backend\ApiDelivery\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\dev\Inewaction\locacao-backend\ApiDelivery\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\dev\Inewaction\locacao-backend\ApiDelivery\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\dev\Inewaction\locacao-backend\ApiDelivery\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\dev\Inewaction\locacao-backend\ApiDelivery\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\dev\Inewaction\locacao-backend\ApiDelivery\bin\roslyn\Microsoft.Managed.Core.targets
+C:\dev\Inewaction\locacao-backend\ApiDelivery\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\dev\Inewaction\locacao-backend\ApiDelivery\bin\roslyn\System.AppContext.dll
+C:\dev\Inewaction\locacao-backend\ApiDelivery\bin\roslyn\System.Collections.Immutable.dll
+C:\dev\Inewaction\locacao-backend\ApiDelivery\bin\roslyn\System.Console.dll
+C:\dev\Inewaction\locacao-backend\ApiDelivery\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\dev\Inewaction\locacao-backend\ApiDelivery\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\dev\Inewaction\locacao-backend\ApiDelivery\bin\roslyn\System.IO.Compression.dll
+C:\dev\Inewaction\locacao-backend\ApiDelivery\bin\roslyn\System.IO.FileSystem.dll
+C:\dev\Inewaction\locacao-backend\ApiDelivery\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\dev\Inewaction\locacao-backend\ApiDelivery\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\dev\Inewaction\locacao-backend\ApiDelivery\bin\roslyn\System.IO.Pipes.dll
+C:\dev\Inewaction\locacao-backend\ApiDelivery\bin\roslyn\System.Reflection.Metadata.dll
+C:\dev\Inewaction\locacao-backend\ApiDelivery\bin\roslyn\System.Security.AccessControl.dll
+C:\dev\Inewaction\locacao-backend\ApiDelivery\bin\roslyn\System.Security.Claims.dll
+C:\dev\Inewaction\locacao-backend\ApiDelivery\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\dev\Inewaction\locacao-backend\ApiDelivery\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\dev\Inewaction\locacao-backend\ApiDelivery\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\dev\Inewaction\locacao-backend\ApiDelivery\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\dev\Inewaction\locacao-backend\ApiDelivery\bin\roslyn\System.Security.Principal.Windows.dll
+C:\dev\Inewaction\locacao-backend\ApiDelivery\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\dev\Inewaction\locacao-backend\ApiDelivery\bin\roslyn\System.ValueTuple.dll
+C:\dev\Inewaction\locacao-backend\ApiDelivery\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\dev\Inewaction\locacao-backend\ApiDelivery\bin\roslyn\System.Xml.XmlDocument.dll
+C:\dev\Inewaction\locacao-backend\ApiDelivery\bin\roslyn\System.Xml.XPath.dll
+C:\dev\Inewaction\locacao-backend\ApiDelivery\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\dev\Inewaction\locacao-backend\ApiDelivery\bin\roslyn\vbc.exe
+C:\dev\Inewaction\locacao-backend\ApiDelivery\bin\roslyn\vbc.exe.config
+C:\dev\Inewaction\locacao-backend\ApiDelivery\bin\roslyn\vbc.rsp
+C:\dev\Inewaction\locacao-backend\ApiDelivery\bin\roslyn\VBCSCompiler.exe
+C:\dev\Inewaction\locacao-backend\ApiDelivery\bin\roslyn\VBCSCompiler.exe.config
+C:\dev\Inewaction\locacao-backend\ApiDelivery\bin\Antlr3.Runtime.dll
+C:\dev\Inewaction\locacao-backend\ApiDelivery\bin\Busines.dll
+C:\dev\Inewaction\locacao-backend\ApiDelivery\bin\Domain.dll
+C:\dev\Inewaction\locacao-backend\ApiDelivery\bin\EntityFramework.dll
+C:\dev\Inewaction\locacao-backend\ApiDelivery\bin\EntityFramework.SqlServer.dll
+C:\dev\Inewaction\locacao-backend\ApiDelivery\bin\Microsoft.AI.Agent.Intercept.dll
+C:\dev\Inewaction\locacao-backend\ApiDelivery\bin\Microsoft.AI.DependencyCollector.dll
+C:\dev\Inewaction\locacao-backend\ApiDelivery\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\dev\Inewaction\locacao-backend\ApiDelivery\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\dev\Inewaction\locacao-backend\ApiDelivery\bin\Microsoft.AI.Web.dll
+C:\dev\Inewaction\locacao-backend\ApiDelivery\bin\Microsoft.AI.WindowsServer.dll
+C:\dev\Inewaction\locacao-backend\ApiDelivery\bin\Microsoft.ApplicationInsights.dll
+C:\dev\Inewaction\locacao-backend\ApiDelivery\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\dev\Inewaction\locacao-backend\ApiDelivery\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\dev\Inewaction\locacao-backend\ApiDelivery\bin\Microsoft.Web.Infrastructure.dll
+C:\dev\Inewaction\locacao-backend\ApiDelivery\bin\MySql.Data.dll
+C:\dev\Inewaction\locacao-backend\ApiDelivery\bin\MySql.Data.Entity.EF6.dll
+C:\dev\Inewaction\locacao-backend\ApiDelivery\bin\Newtonsoft.Json.dll
+C:\dev\Inewaction\locacao-backend\ApiDelivery\bin\Repository.dll
+C:\dev\Inewaction\locacao-backend\ApiDelivery\bin\System.Diagnostics.DiagnosticSource.dll
+C:\dev\Inewaction\locacao-backend\ApiDelivery\bin\System.Net.Http.Formatting.dll
+C:\dev\Inewaction\locacao-backend\ApiDelivery\bin\System.Web.Cors.dll
+C:\dev\Inewaction\locacao-backend\ApiDelivery\bin\System.Web.Helpers.dll
+C:\dev\Inewaction\locacao-backend\ApiDelivery\bin\System.Web.Http.Cors.dll
+C:\dev\Inewaction\locacao-backend\ApiDelivery\bin\System.Web.Http.dll
+C:\dev\Inewaction\locacao-backend\ApiDelivery\bin\System.Web.Http.WebHost.dll
+C:\dev\Inewaction\locacao-backend\ApiDelivery\bin\System.Web.Mvc.dll
+C:\dev\Inewaction\locacao-backend\ApiDelivery\bin\System.Web.Optimization.dll
+C:\dev\Inewaction\locacao-backend\ApiDelivery\bin\System.Web.Razor.dll
+C:\dev\Inewaction\locacao-backend\ApiDelivery\bin\System.Web.WebPages.Deployment.dll
+C:\dev\Inewaction\locacao-backend\ApiDelivery\bin\System.Web.WebPages.dll
+C:\dev\Inewaction\locacao-backend\ApiDelivery\bin\System.Web.WebPages.Razor.dll
+C:\dev\Inewaction\locacao-backend\ApiDelivery\bin\WebGrease.dll
+C:\dev\Inewaction\locacao-backend\ApiDelivery\bin\Busines.pdb
+C:\dev\Inewaction\locacao-backend\ApiDelivery\bin\Busines.dll.config
+C:\dev\Inewaction\locacao-backend\ApiDelivery\bin\Domain.pdb
+C:\dev\Inewaction\locacao-backend\ApiDelivery\bin\Domain.dll.config
+C:\dev\Inewaction\locacao-backend\ApiDelivery\bin\Repository.pdb
+C:\dev\Inewaction\locacao-backend\ApiDelivery\bin\Repository.dll.config
+C:\dev\Inewaction\locacao-backend\ApiDelivery\bin\EntityFramework.xml
+C:\dev\Inewaction\locacao-backend\ApiDelivery\bin\EntityFramework.SqlServer.xml
+C:\dev\Inewaction\locacao-backend\ApiDelivery\bin\MySql.Data.xml
+C:\dev\Inewaction\locacao-backend\ApiDelivery\bin\MySql.Data.Entity.EF6.xml
+C:\dev\Inewaction\locacao-backend\ApiDelivery\bin\System.Net.Http.Formatting.xml
+C:\dev\Inewaction\locacao-backend\ApiDelivery\bin\System.Web.Http.xml
+C:\dev\Inewaction\locacao-backend\ApiDelivery\bin\System.Web.Http.Cors.xml
+C:\dev\Inewaction\locacao-backend\ApiDelivery\bin\Newtonsoft.Json.xml
+C:\dev\Inewaction\locacao-backend\ApiDelivery\bin\System.Web.Helpers.xml
+C:\dev\Inewaction\locacao-backend\ApiDelivery\bin\System.Web.Http.WebHost.xml
+C:\dev\Inewaction\locacao-backend\ApiDelivery\bin\System.Web.Mvc.xml
+C:\dev\Inewaction\locacao-backend\ApiDelivery\bin\System.Web.Optimization.xml
+C:\dev\Inewaction\locacao-backend\ApiDelivery\bin\System.Web.Razor.xml
+C:\dev\Inewaction\locacao-backend\ApiDelivery\bin\System.Web.WebPages.xml
+C:\dev\Inewaction\locacao-backend\ApiDelivery\bin\System.Web.WebPages.Deployment.xml
+C:\dev\Inewaction\locacao-backend\ApiDelivery\bin\System.Web.WebPages.Razor.xml
+C:\dev\Inewaction\locacao-backend\ApiDelivery\bin\Antlr3.Runtime.pdb
+C:\dev\Inewaction\locacao-backend\ApiDelivery\bin\System.Diagnostics.DiagnosticSource.xml
+C:\dev\Inewaction\locacao-backend\ApiDelivery\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\dev\Inewaction\locacao-backend\ApiDelivery\bin\Microsoft.AI.DependencyCollector.xml
+C:\dev\Inewaction\locacao-backend\ApiDelivery\bin\Microsoft.AI.WindowsServer.xml
+C:\dev\Inewaction\locacao-backend\ApiDelivery\bin\Microsoft.AI.Web.xml
+C:\dev\Inewaction\locacao-backend\ApiDelivery\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\dev\Inewaction\locacao-backend\ApiDelivery\bin\pt-br\System.Net.Http.Formatting.resources.dll
+C:\dev\Inewaction\locacao-backend\ApiDelivery\bin\pt-br\System.Web.Http.resources.dll
+C:\dev\Inewaction\locacao-backend\ApiDelivery\bin\pt-br\System.Web.Helpers.resources.dll
+C:\dev\Inewaction\locacao-backend\ApiDelivery\bin\pt-br\System.Web.Http.WebHost.resources.dll
+C:\dev\Inewaction\locacao-backend\ApiDelivery\bin\pt-br\System.Web.Mvc.resources.dll
+C:\dev\Inewaction\locacao-backend\ApiDelivery\bin\pt-br\System.Web.Optimization.resources.dll
+C:\dev\Inewaction\locacao-backend\ApiDelivery\bin\pt-br\System.Web.Razor.resources.dll
+C:\dev\Inewaction\locacao-backend\ApiDelivery\bin\pt-br\System.Web.WebPages.resources.dll
+C:\dev\Inewaction\locacao-backend\ApiDelivery\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\dev\Inewaction\locacao-backend\ApiDelivery\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\dev\Inewaction\locacao-backend\ApiDelivery\obj\Release\ApiLocacao.csprojAssemblyReference.cache
+C:\dev\Inewaction\locacao-backend\ApiDelivery\obj\Release\ApiLocacao.csproj.CoreCompileInputs.cache
+C:\dev\Inewaction\locacao-backend\ApiDelivery\obj\Release\ApiLocacao.csproj.CopyComplete
+C:\dev\Inewaction\locacao-backend\ApiDelivery\obj\Release\ApiDelivery.dll
+C:\dev\Inewaction\locacao-backend\ApiDelivery\obj\Release\ApiDelivery.pdb
+C:\Users\Charly\Documents\Worckspace\locacao-backend\ApiDelivery\bin\ApplicationInsights.config
+C:\Users\Charly\Documents\Worckspace\locacao-backend\ApiDelivery\bin\ApiDelivery.dll.config
+C:\Users\Charly\Documents\Worckspace\locacao-backend\ApiDelivery\bin\ApiDelivery.dll
+C:\Users\Charly\Documents\Worckspace\locacao-backend\ApiDelivery\bin\ApiDelivery.pdb
+C:\Users\Charly\Documents\Worckspace\locacao-backend\ApiDelivery\bin\roslyn\csc.exe
+C:\Users\Charly\Documents\Worckspace\locacao-backend\ApiDelivery\bin\roslyn\csc.exe.config
+C:\Users\Charly\Documents\Worckspace\locacao-backend\ApiDelivery\bin\roslyn\csc.rsp
+C:\Users\Charly\Documents\Worckspace\locacao-backend\ApiDelivery\bin\roslyn\csi.exe
+C:\Users\Charly\Documents\Worckspace\locacao-backend\ApiDelivery\bin\roslyn\csi.exe.config
+C:\Users\Charly\Documents\Worckspace\locacao-backend\ApiDelivery\bin\roslyn\csi.rsp
+C:\Users\Charly\Documents\Worckspace\locacao-backend\ApiDelivery\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Charly\Documents\Worckspace\locacao-backend\ApiDelivery\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Charly\Documents\Worckspace\locacao-backend\ApiDelivery\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Charly\Documents\Worckspace\locacao-backend\ApiDelivery\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Charly\Documents\Worckspace\locacao-backend\ApiDelivery\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Charly\Documents\Worckspace\locacao-backend\ApiDelivery\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Charly\Documents\Worckspace\locacao-backend\ApiDelivery\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Charly\Documents\Worckspace\locacao-backend\ApiDelivery\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Charly\Documents\Worckspace\locacao-backend\ApiDelivery\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Charly\Documents\Worckspace\locacao-backend\ApiDelivery\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Charly\Documents\Worckspace\locacao-backend\ApiDelivery\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Charly\Documents\Worckspace\locacao-backend\ApiDelivery\bin\roslyn\System.AppContext.dll
+C:\Users\Charly\Documents\Worckspace\locacao-backend\ApiDelivery\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Charly\Documents\Worckspace\locacao-backend\ApiDelivery\bin\roslyn\System.Console.dll
+C:\Users\Charly\Documents\Worckspace\locacao-backend\ApiDelivery\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Charly\Documents\Worckspace\locacao-backend\ApiDelivery\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Charly\Documents\Worckspace\locacao-backend\ApiDelivery\bin\roslyn\System.IO.Compression.dll
+C:\Users\Charly\Documents\Worckspace\locacao-backend\ApiDelivery\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Charly\Documents\Worckspace\locacao-backend\ApiDelivery\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Charly\Documents\Worckspace\locacao-backend\ApiDelivery\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Charly\Documents\Worckspace\locacao-backend\ApiDelivery\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Charly\Documents\Worckspace\locacao-backend\ApiDelivery\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Charly\Documents\Worckspace\locacao-backend\ApiDelivery\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Charly\Documents\Worckspace\locacao-backend\ApiDelivery\bin\roslyn\System.Security.Claims.dll
+C:\Users\Charly\Documents\Worckspace\locacao-backend\ApiDelivery\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Charly\Documents\Worckspace\locacao-backend\ApiDelivery\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Charly\Documents\Worckspace\locacao-backend\ApiDelivery\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Charly\Documents\Worckspace\locacao-backend\ApiDelivery\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Charly\Documents\Worckspace\locacao-backend\ApiDelivery\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Charly\Documents\Worckspace\locacao-backend\ApiDelivery\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Charly\Documents\Worckspace\locacao-backend\ApiDelivery\bin\roslyn\System.ValueTuple.dll
+C:\Users\Charly\Documents\Worckspace\locacao-backend\ApiDelivery\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Charly\Documents\Worckspace\locacao-backend\ApiDelivery\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Charly\Documents\Worckspace\locacao-backend\ApiDelivery\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Charly\Documents\Worckspace\locacao-backend\ApiDelivery\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Charly\Documents\Worckspace\locacao-backend\ApiDelivery\bin\roslyn\vbc.exe
+C:\Users\Charly\Documents\Worckspace\locacao-backend\ApiDelivery\bin\roslyn\vbc.exe.config
+C:\Users\Charly\Documents\Worckspace\locacao-backend\ApiDelivery\bin\roslyn\vbc.rsp
+C:\Users\Charly\Documents\Worckspace\locacao-backend\ApiDelivery\bin\roslyn\VBCSCompiler.exe
+C:\Users\Charly\Documents\Worckspace\locacao-backend\ApiDelivery\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Charly\Documents\Worckspace\locacao-backend\ApiDelivery\bin\Antlr3.Runtime.dll
+C:\Users\Charly\Documents\Worckspace\locacao-backend\ApiDelivery\bin\Busines.dll
+C:\Users\Charly\Documents\Worckspace\locacao-backend\ApiDelivery\bin\Domain.dll
+C:\Users\Charly\Documents\Worckspace\locacao-backend\ApiDelivery\bin\EntityFramework.dll
+C:\Users\Charly\Documents\Worckspace\locacao-backend\ApiDelivery\bin\EntityFramework.SqlServer.dll
+C:\Users\Charly\Documents\Worckspace\locacao-backend\ApiDelivery\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Charly\Documents\Worckspace\locacao-backend\ApiDelivery\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Charly\Documents\Worckspace\locacao-backend\ApiDelivery\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Charly\Documents\Worckspace\locacao-backend\ApiDelivery\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Charly\Documents\Worckspace\locacao-backend\ApiDelivery\bin\Microsoft.AI.Web.dll
+C:\Users\Charly\Documents\Worckspace\locacao-backend\ApiDelivery\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Charly\Documents\Worckspace\locacao-backend\ApiDelivery\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Charly\Documents\Worckspace\locacao-backend\ApiDelivery\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Charly\Documents\Worckspace\locacao-backend\ApiDelivery\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Charly\Documents\Worckspace\locacao-backend\ApiDelivery\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Charly\Documents\Worckspace\locacao-backend\ApiDelivery\bin\MySql.Data.dll
+C:\Users\Charly\Documents\Worckspace\locacao-backend\ApiDelivery\bin\MySql.Data.Entity.EF6.dll
+C:\Users\Charly\Documents\Worckspace\locacao-backend\ApiDelivery\bin\Newtonsoft.Json.dll
+C:\Users\Charly\Documents\Worckspace\locacao-backend\ApiDelivery\bin\Repository.dll
+C:\Users\Charly\Documents\Worckspace\locacao-backend\ApiDelivery\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Charly\Documents\Worckspace\locacao-backend\ApiDelivery\bin\System.Net.Http.Formatting.dll
+C:\Users\Charly\Documents\Worckspace\locacao-backend\ApiDelivery\bin\System.Web.Cors.dll
+C:\Users\Charly\Documents\Worckspace\locacao-backend\ApiDelivery\bin\System.Web.Helpers.dll
+C:\Users\Charly\Documents\Worckspace\locacao-backend\ApiDelivery\bin\System.Web.Http.Cors.dll
+C:\Users\Charly\Documents\Worckspace\locacao-backend\ApiDelivery\bin\System.Web.Http.dll
+C:\Users\Charly\Documents\Worckspace\locacao-backend\ApiDelivery\bin\System.Web.Http.WebHost.dll
+C:\Users\Charly\Documents\Worckspace\locacao-backend\ApiDelivery\bin\System.Web.Mvc.dll
+C:\Users\Charly\Documents\Worckspace\locacao-backend\ApiDelivery\bin\System.Web.Optimization.dll
+C:\Users\Charly\Documents\Worckspace\locacao-backend\ApiDelivery\bin\System.Web.Razor.dll
+C:\Users\Charly\Documents\Worckspace\locacao-backend\ApiDelivery\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Charly\Documents\Worckspace\locacao-backend\ApiDelivery\bin\System.Web.WebPages.dll
+C:\Users\Charly\Documents\Worckspace\locacao-backend\ApiDelivery\bin\System.Web.WebPages.Razor.dll
+C:\Users\Charly\Documents\Worckspace\locacao-backend\ApiDelivery\bin\WebGrease.dll
+C:\Users\Charly\Documents\Worckspace\locacao-backend\ApiDelivery\bin\Busines.pdb
+C:\Users\Charly\Documents\Worckspace\locacao-backend\ApiDelivery\bin\Busines.dll.config
+C:\Users\Charly\Documents\Worckspace\locacao-backend\ApiDelivery\bin\Domain.pdb
+C:\Users\Charly\Documents\Worckspace\locacao-backend\ApiDelivery\bin\Domain.dll.config
+C:\Users\Charly\Documents\Worckspace\locacao-backend\ApiDelivery\bin\Repository.pdb
+C:\Users\Charly\Documents\Worckspace\locacao-backend\ApiDelivery\bin\Repository.dll.config
+C:\Users\Charly\Documents\Worckspace\locacao-backend\ApiDelivery\bin\EntityFramework.xml
+C:\Users\Charly\Documents\Worckspace\locacao-backend\ApiDelivery\bin\EntityFramework.SqlServer.xml
+C:\Users\Charly\Documents\Worckspace\locacao-backend\ApiDelivery\bin\MySql.Data.xml
+C:\Users\Charly\Documents\Worckspace\locacao-backend\ApiDelivery\bin\MySql.Data.Entity.EF6.xml
+C:\Users\Charly\Documents\Worckspace\locacao-backend\ApiDelivery\bin\System.Net.Http.Formatting.xml
+C:\Users\Charly\Documents\Worckspace\locacao-backend\ApiDelivery\bin\System.Web.Http.xml
+C:\Users\Charly\Documents\Worckspace\locacao-backend\ApiDelivery\bin\System.Web.Http.Cors.xml
+C:\Users\Charly\Documents\Worckspace\locacao-backend\ApiDelivery\bin\Newtonsoft.Json.xml
+C:\Users\Charly\Documents\Worckspace\locacao-backend\ApiDelivery\bin\System.Web.Helpers.xml
+C:\Users\Charly\Documents\Worckspace\locacao-backend\ApiDelivery\bin\System.Web.Http.WebHost.xml
+C:\Users\Charly\Documents\Worckspace\locacao-backend\ApiDelivery\bin\System.Web.Mvc.xml
+C:\Users\Charly\Documents\Worckspace\locacao-backend\ApiDelivery\bin\System.Web.Optimization.xml
+C:\Users\Charly\Documents\Worckspace\locacao-backend\ApiDelivery\bin\System.Web.Razor.xml
+C:\Users\Charly\Documents\Worckspace\locacao-backend\ApiDelivery\bin\System.Web.WebPages.xml
+C:\Users\Charly\Documents\Worckspace\locacao-backend\ApiDelivery\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Charly\Documents\Worckspace\locacao-backend\ApiDelivery\bin\System.Web.WebPages.Razor.xml
+C:\Users\Charly\Documents\Worckspace\locacao-backend\ApiDelivery\bin\Antlr3.Runtime.pdb
+C:\Users\Charly\Documents\Worckspace\locacao-backend\ApiDelivery\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Charly\Documents\Worckspace\locacao-backend\ApiDelivery\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Charly\Documents\Worckspace\locacao-backend\ApiDelivery\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Charly\Documents\Worckspace\locacao-backend\ApiDelivery\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Charly\Documents\Worckspace\locacao-backend\ApiDelivery\bin\Microsoft.AI.Web.xml
+C:\Users\Charly\Documents\Worckspace\locacao-backend\ApiDelivery\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Charly\Documents\Worckspace\locacao-backend\ApiDelivery\bin\pt-br\System.Net.Http.Formatting.resources.dll
+C:\Users\Charly\Documents\Worckspace\locacao-backend\ApiDelivery\bin\pt-br\System.Web.Http.resources.dll
+C:\Users\Charly\Documents\Worckspace\locacao-backend\ApiDelivery\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\Charly\Documents\Worckspace\locacao-backend\ApiDelivery\bin\pt-br\System.Web.Http.WebHost.resources.dll
+C:\Users\Charly\Documents\Worckspace\locacao-backend\ApiDelivery\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\Charly\Documents\Worckspace\locacao-backend\ApiDelivery\bin\pt-br\System.Web.Optimization.resources.dll
+C:\Users\Charly\Documents\Worckspace\locacao-backend\ApiDelivery\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\Charly\Documents\Worckspace\locacao-backend\ApiDelivery\bin\pt-br\System.Web.WebPages.resources.dll
+C:\Users\Charly\Documents\Worckspace\locacao-backend\ApiDelivery\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Charly\Documents\Worckspace\locacao-backend\ApiDelivery\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\Users\Charly\Documents\Worckspace\locacao-backend\ApiDelivery\obj\Release\ApiLocacao.csprojAssemblyReference.cache
+C:\Users\Charly\Documents\Worckspace\locacao-backend\ApiDelivery\obj\Release\ApiLocacao.csproj.CoreCompileInputs.cache
+C:\Users\Charly\Documents\Worckspace\locacao-backend\ApiDelivery\obj\Release\ApiLocacao.csproj.CopyComplete
+C:\Users\Charly\Documents\Worckspace\locacao-backend\ApiDelivery\obj\Release\ApiDelivery.dll
+C:\Users\Charly\Documents\Worckspace\locacao-backend\ApiDelivery\obj\Release\ApiDelivery.pdb
+C:\Desenvolvimento\Inewaction\locacao-backend\ApiDelivery\bin\ApplicationInsights.config
+C:\Desenvolvimento\Inewaction\locacao-backend\ApiDelivery\bin\ApiDelivery.dll.config
+C:\Desenvolvimento\Inewaction\locacao-backend\ApiDelivery\bin\ApiDelivery.dll
+C:\Desenvolvimento\Inewaction\locacao-backend\ApiDelivery\bin\ApiDelivery.pdb
+C:\Desenvolvimento\Inewaction\locacao-backend\ApiDelivery\bin\roslyn\csc.exe
+C:\Desenvolvimento\Inewaction\locacao-backend\ApiDelivery\bin\roslyn\csc.exe.config
+C:\Desenvolvimento\Inewaction\locacao-backend\ApiDelivery\bin\roslyn\csc.rsp
+C:\Desenvolvimento\Inewaction\locacao-backend\ApiDelivery\bin\roslyn\csi.exe
+C:\Desenvolvimento\Inewaction\locacao-backend\ApiDelivery\bin\roslyn\csi.exe.config
+C:\Desenvolvimento\Inewaction\locacao-backend\ApiDelivery\bin\roslyn\csi.rsp
+C:\Desenvolvimento\Inewaction\locacao-backend\ApiDelivery\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Desenvolvimento\Inewaction\locacao-backend\ApiDelivery\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Desenvolvimento\Inewaction\locacao-backend\ApiDelivery\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Desenvolvimento\Inewaction\locacao-backend\ApiDelivery\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Desenvolvimento\Inewaction\locacao-backend\ApiDelivery\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Desenvolvimento\Inewaction\locacao-backend\ApiDelivery\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Desenvolvimento\Inewaction\locacao-backend\ApiDelivery\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Desenvolvimento\Inewaction\locacao-backend\ApiDelivery\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Desenvolvimento\Inewaction\locacao-backend\ApiDelivery\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Desenvolvimento\Inewaction\locacao-backend\ApiDelivery\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Desenvolvimento\Inewaction\locacao-backend\ApiDelivery\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Desenvolvimento\Inewaction\locacao-backend\ApiDelivery\bin\roslyn\System.AppContext.dll
+C:\Desenvolvimento\Inewaction\locacao-backend\ApiDelivery\bin\roslyn\System.Collections.Immutable.dll
+C:\Desenvolvimento\Inewaction\locacao-backend\ApiDelivery\bin\roslyn\System.Console.dll
+C:\Desenvolvimento\Inewaction\locacao-backend\ApiDelivery\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Desenvolvimento\Inewaction\locacao-backend\ApiDelivery\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Desenvolvimento\Inewaction\locacao-backend\ApiDelivery\bin\roslyn\System.IO.Compression.dll
+C:\Desenvolvimento\Inewaction\locacao-backend\ApiDelivery\bin\roslyn\System.IO.FileSystem.dll
+C:\Desenvolvimento\Inewaction\locacao-backend\ApiDelivery\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Desenvolvimento\Inewaction\locacao-backend\ApiDelivery\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Desenvolvimento\Inewaction\locacao-backend\ApiDelivery\bin\roslyn\System.IO.Pipes.dll
+C:\Desenvolvimento\Inewaction\locacao-backend\ApiDelivery\bin\roslyn\System.Reflection.Metadata.dll
+C:\Desenvolvimento\Inewaction\locacao-backend\ApiDelivery\bin\roslyn\System.Security.AccessControl.dll
+C:\Desenvolvimento\Inewaction\locacao-backend\ApiDelivery\bin\roslyn\System.Security.Claims.dll
+C:\Desenvolvimento\Inewaction\locacao-backend\ApiDelivery\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Desenvolvimento\Inewaction\locacao-backend\ApiDelivery\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Desenvolvimento\Inewaction\locacao-backend\ApiDelivery\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Desenvolvimento\Inewaction\locacao-backend\ApiDelivery\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Desenvolvimento\Inewaction\locacao-backend\ApiDelivery\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Desenvolvimento\Inewaction\locacao-backend\ApiDelivery\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Desenvolvimento\Inewaction\locacao-backend\ApiDelivery\bin\roslyn\System.ValueTuple.dll
+C:\Desenvolvimento\Inewaction\locacao-backend\ApiDelivery\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Desenvolvimento\Inewaction\locacao-backend\ApiDelivery\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Desenvolvimento\Inewaction\locacao-backend\ApiDelivery\bin\roslyn\System.Xml.XPath.dll
+C:\Desenvolvimento\Inewaction\locacao-backend\ApiDelivery\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Desenvolvimento\Inewaction\locacao-backend\ApiDelivery\bin\roslyn\vbc.exe
+C:\Desenvolvimento\Inewaction\locacao-backend\ApiDelivery\bin\roslyn\vbc.exe.config
+C:\Desenvolvimento\Inewaction\locacao-backend\ApiDelivery\bin\roslyn\vbc.rsp
+C:\Desenvolvimento\Inewaction\locacao-backend\ApiDelivery\bin\roslyn\VBCSCompiler.exe
+C:\Desenvolvimento\Inewaction\locacao-backend\ApiDelivery\bin\roslyn\VBCSCompiler.exe.config
+C:\Desenvolvimento\Inewaction\locacao-backend\ApiDelivery\bin\Antlr3.Runtime.dll
+C:\Desenvolvimento\Inewaction\locacao-backend\ApiDelivery\bin\Busines.dll
+C:\Desenvolvimento\Inewaction\locacao-backend\ApiDelivery\bin\Domain.dll
+C:\Desenvolvimento\Inewaction\locacao-backend\ApiDelivery\bin\EntityFramework.dll
+C:\Desenvolvimento\Inewaction\locacao-backend\ApiDelivery\bin\EntityFramework.SqlServer.dll
+C:\Desenvolvimento\Inewaction\locacao-backend\ApiDelivery\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Desenvolvimento\Inewaction\locacao-backend\ApiDelivery\bin\Microsoft.AI.DependencyCollector.dll
+C:\Desenvolvimento\Inewaction\locacao-backend\ApiDelivery\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Desenvolvimento\Inewaction\locacao-backend\ApiDelivery\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Desenvolvimento\Inewaction\locacao-backend\ApiDelivery\bin\Microsoft.AI.Web.dll
+C:\Desenvolvimento\Inewaction\locacao-backend\ApiDelivery\bin\Microsoft.AI.WindowsServer.dll
+C:\Desenvolvimento\Inewaction\locacao-backend\ApiDelivery\bin\Microsoft.ApplicationInsights.dll
+C:\Desenvolvimento\Inewaction\locacao-backend\ApiDelivery\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Desenvolvimento\Inewaction\locacao-backend\ApiDelivery\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Desenvolvimento\Inewaction\locacao-backend\ApiDelivery\bin\Microsoft.Web.Infrastructure.dll
+C:\Desenvolvimento\Inewaction\locacao-backend\ApiDelivery\bin\MySql.Data.dll
+C:\Desenvolvimento\Inewaction\locacao-backend\ApiDelivery\bin\MySql.Data.Entity.EF6.dll
+C:\Desenvolvimento\Inewaction\locacao-backend\ApiDelivery\bin\Newtonsoft.Json.dll
+C:\Desenvolvimento\Inewaction\locacao-backend\ApiDelivery\bin\Repository.dll
+C:\Desenvolvimento\Inewaction\locacao-backend\ApiDelivery\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Desenvolvimento\Inewaction\locacao-backend\ApiDelivery\bin\System.Net.Http.Formatting.dll
+C:\Desenvolvimento\Inewaction\locacao-backend\ApiDelivery\bin\System.Web.Cors.dll
+C:\Desenvolvimento\Inewaction\locacao-backend\ApiDelivery\bin\System.Web.Helpers.dll
+C:\Desenvolvimento\Inewaction\locacao-backend\ApiDelivery\bin\System.Web.Http.Cors.dll
+C:\Desenvolvimento\Inewaction\locacao-backend\ApiDelivery\bin\System.Web.Http.dll
+C:\Desenvolvimento\Inewaction\locacao-backend\ApiDelivery\bin\System.Web.Http.WebHost.dll
+C:\Desenvolvimento\Inewaction\locacao-backend\ApiDelivery\bin\System.Web.Mvc.dll
+C:\Desenvolvimento\Inewaction\locacao-backend\ApiDelivery\bin\System.Web.Optimization.dll
+C:\Desenvolvimento\Inewaction\locacao-backend\ApiDelivery\bin\System.Web.Razor.dll
+C:\Desenvolvimento\Inewaction\locacao-backend\ApiDelivery\bin\System.Web.WebPages.Deployment.dll
+C:\Desenvolvimento\Inewaction\locacao-backend\ApiDelivery\bin\System.Web.WebPages.dll
+C:\Desenvolvimento\Inewaction\locacao-backend\ApiDelivery\bin\System.Web.WebPages.Razor.dll
+C:\Desenvolvimento\Inewaction\locacao-backend\ApiDelivery\bin\WebGrease.dll
+C:\Desenvolvimento\Inewaction\locacao-backend\ApiDelivery\bin\Busines.pdb
+C:\Desenvolvimento\Inewaction\locacao-backend\ApiDelivery\bin\Busines.dll.config
+C:\Desenvolvimento\Inewaction\locacao-backend\ApiDelivery\bin\Domain.pdb
+C:\Desenvolvimento\Inewaction\locacao-backend\ApiDelivery\bin\Domain.dll.config
+C:\Desenvolvimento\Inewaction\locacao-backend\ApiDelivery\bin\Repository.pdb
+C:\Desenvolvimento\Inewaction\locacao-backend\ApiDelivery\bin\Repository.dll.config
+C:\Desenvolvimento\Inewaction\locacao-backend\ApiDelivery\bin\EntityFramework.xml
+C:\Desenvolvimento\Inewaction\locacao-backend\ApiDelivery\bin\EntityFramework.SqlServer.xml
+C:\Desenvolvimento\Inewaction\locacao-backend\ApiDelivery\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Desenvolvimento\Inewaction\locacao-backend\ApiDelivery\bin\MySql.Data.xml
+C:\Desenvolvimento\Inewaction\locacao-backend\ApiDelivery\bin\MySql.Data.Entity.EF6.xml
+C:\Desenvolvimento\Inewaction\locacao-backend\ApiDelivery\bin\Newtonsoft.Json.xml
+C:\Desenvolvimento\Inewaction\locacao-backend\ApiDelivery\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Desenvolvimento\Inewaction\locacao-backend\ApiDelivery\bin\System.Net.Http.Formatting.xml
+C:\Desenvolvimento\Inewaction\locacao-backend\ApiDelivery\bin\System.Web.Http.xml
+C:\Desenvolvimento\Inewaction\locacao-backend\ApiDelivery\bin\System.Web.Http.Cors.xml
+C:\Desenvolvimento\Inewaction\locacao-backend\ApiDelivery\bin\System.Web.Helpers.xml
+C:\Desenvolvimento\Inewaction\locacao-backend\ApiDelivery\bin\System.Web.Http.WebHost.xml
+C:\Desenvolvimento\Inewaction\locacao-backend\ApiDelivery\bin\System.Web.Mvc.xml
+C:\Desenvolvimento\Inewaction\locacao-backend\ApiDelivery\bin\System.Web.Optimization.xml
+C:\Desenvolvimento\Inewaction\locacao-backend\ApiDelivery\bin\System.Web.Razor.xml
+C:\Desenvolvimento\Inewaction\locacao-backend\ApiDelivery\bin\System.Web.WebPages.xml
+C:\Desenvolvimento\Inewaction\locacao-backend\ApiDelivery\bin\System.Web.WebPages.Deployment.xml
+C:\Desenvolvimento\Inewaction\locacao-backend\ApiDelivery\bin\System.Web.WebPages.Razor.xml
+C:\Desenvolvimento\Inewaction\locacao-backend\ApiDelivery\bin\Antlr3.Runtime.pdb
+C:\Desenvolvimento\Inewaction\locacao-backend\ApiDelivery\bin\Microsoft.AI.DependencyCollector.xml
+C:\Desenvolvimento\Inewaction\locacao-backend\ApiDelivery\bin\Microsoft.AI.WindowsServer.xml
+C:\Desenvolvimento\Inewaction\locacao-backend\ApiDelivery\bin\Microsoft.AI.Web.xml
+C:\Desenvolvimento\Inewaction\locacao-backend\ApiDelivery\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Desenvolvimento\Inewaction\locacao-backend\ApiDelivery\bin\pt-br\System.Net.Http.Formatting.resources.dll
+C:\Desenvolvimento\Inewaction\locacao-backend\ApiDelivery\bin\pt-br\System.Web.Http.resources.dll
+C:\Desenvolvimento\Inewaction\locacao-backend\ApiDelivery\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Desenvolvimento\Inewaction\locacao-backend\ApiDelivery\bin\pt-br\System.Web.Http.WebHost.resources.dll
+C:\Desenvolvimento\Inewaction\locacao-backend\ApiDelivery\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Desenvolvimento\Inewaction\locacao-backend\ApiDelivery\bin\pt-br\System.Web.Optimization.resources.dll
+C:\Desenvolvimento\Inewaction\locacao-backend\ApiDelivery\bin\pt-br\System.Web.Razor.resources.dll
+C:\Desenvolvimento\Inewaction\locacao-backend\ApiDelivery\bin\pt-br\System.Web.WebPages.resources.dll
+C:\Desenvolvimento\Inewaction\locacao-backend\ApiDelivery\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\Desenvolvimento\Inewaction\locacao-backend\ApiDelivery\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\Desenvolvimento\Inewaction\locacao-backend\ApiDelivery\obj\Release\ApiLocacao.csprojAssemblyReference.cache
+C:\Desenvolvimento\Inewaction\locacao-backend\ApiDelivery\obj\Release\ApiLocacao.csproj.CoreCompileInputs.cache
+C:\Desenvolvimento\Inewaction\locacao-backend\ApiDelivery\obj\Release\ApiLocacao.csproj.CopyComplete
+C:\Desenvolvimento\Inewaction\locacao-backend\ApiDelivery\obj\Release\ApiDelivery.dll
+C:\Desenvolvimento\Inewaction\locacao-backend\ApiDelivery\obj\Release\ApiDelivery.pdb

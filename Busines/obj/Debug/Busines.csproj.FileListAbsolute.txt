@@ -1,0 +1,266 @@
+C:\Users\OMEGA 02\Documents\AppDelivery\Busines\bin\Debug\Busines.dll.config
+C:\Users\OMEGA 02\Documents\AppDelivery\Busines\bin\Debug\Busines.dll
+C:\Users\OMEGA 02\Documents\AppDelivery\Busines\bin\Debug\Busines.pdb
+C:\Users\OMEGA 02\Documents\AppDelivery\Busines\bin\Debug\EntityFramework.dll
+C:\Users\OMEGA 02\Documents\AppDelivery\Busines\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\OMEGA 02\Documents\AppDelivery\Busines\bin\Debug\EntityFramework.xml
+C:\Users\OMEGA 02\Documents\AppDelivery\Busines\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\OMEGA 02\Documents\AppDelivery\Busines\obj\Debug\Busines.csprojAssemblyReference.cache
+C:\Users\OMEGA 02\Documents\AppDelivery\Busines\obj\Debug\Busines.csproj.CoreCompileInputs.cache
+C:\Users\OMEGA 02\Documents\AppDelivery\Busines\obj\Debug\Busines.csproj.CopyComplete
+C:\Users\OMEGA 02\Documents\AppDelivery\Busines\obj\Debug\Busines.dll
+C:\Users\OMEGA 02\Documents\AppDelivery\Busines\obj\Debug\Busines.pdb
+C:\Users\OMEGA 02\Documents\AppDelivery\Busines\bin\Debug\Domain.dll
+C:\Users\OMEGA 02\Documents\AppDelivery\Busines\bin\Debug\Repository.dll
+C:\Users\OMEGA 02\Documents\AppDelivery\Busines\bin\Debug\Domain.pdb
+C:\Users\OMEGA 02\Documents\AppDelivery\Busines\bin\Debug\Domain.dll.config
+C:\Users\OMEGA 02\Documents\AppDelivery\Busines\bin\Debug\Repository.pdb
+C:\Users\OMEGA 02\Documents\AppDelivery\Busines\bin\Debug\Repository.dll.config
+C:\Users\OMEGA 02\Documents\AppDelivery\Busines\bin\Debug\MySql.Data.dll
+C:\Users\OMEGA 02\Documents\AppDelivery\Busines\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\OMEGA 02\Documents\AppDelivery\Busines\bin\Debug\MySql.Data.xml
+C:\Users\OMEGA 02\Documents\AppDelivery\Busines\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\Users\kelve\Documents\app\delivery-backend\Busines\bin\Debug\Busines.dll.config
+C:\Users\kelve\Documents\app\delivery-backend\Busines\bin\Debug\Busines.dll
+C:\Users\kelve\Documents\app\delivery-backend\Busines\bin\Debug\Busines.pdb
+C:\Users\kelve\Documents\app\delivery-backend\Busines\bin\Debug\Domain.dll
+C:\Users\kelve\Documents\app\delivery-backend\Busines\bin\Debug\EntityFramework.dll
+C:\Users\kelve\Documents\app\delivery-backend\Busines\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kelve\Documents\app\delivery-backend\Busines\bin\Debug\MySql.Data.dll
+C:\Users\kelve\Documents\app\delivery-backend\Busines\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\kelve\Documents\app\delivery-backend\Busines\bin\Debug\Repository.dll
+C:\Users\kelve\Documents\app\delivery-backend\Busines\bin\Debug\Domain.pdb
+C:\Users\kelve\Documents\app\delivery-backend\Busines\bin\Debug\Domain.dll.config
+C:\Users\kelve\Documents\app\delivery-backend\Busines\bin\Debug\Repository.pdb
+C:\Users\kelve\Documents\app\delivery-backend\Busines\bin\Debug\Repository.dll.config
+C:\Users\kelve\Documents\app\delivery-backend\Busines\bin\Debug\EntityFramework.xml
+C:\Users\kelve\Documents\app\delivery-backend\Busines\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kelve\Documents\app\delivery-backend\Busines\bin\Debug\MySql.Data.xml
+C:\Users\kelve\Documents\app\delivery-backend\Busines\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\Users\kelve\Documents\app\delivery-backend\Busines\obj\Debug\Busines.csprojAssemblyReference.cache
+C:\Users\kelve\Documents\app\delivery-backend\Busines\obj\Debug\Busines.csproj.CoreCompileInputs.cache
+C:\Users\kelve\Documents\app\delivery-backend\Busines\obj\Debug\Busines.csproj.CopyComplete
+C:\Users\kelve\Documents\app\delivery-backend\Busines\obj\Debug\Busines.dll
+C:\Users\kelve\Documents\app\delivery-backend\Busines\obj\Debug\Busines.pdb
+C:\Users\OMEGA 02\Documents\impresso_backend\Busines\bin\Debug\Busines.dll.config
+C:\Users\OMEGA 02\Documents\impresso_backend\Busines\bin\Debug\Busines.dll
+C:\Users\OMEGA 02\Documents\impresso_backend\Busines\bin\Debug\Busines.pdb
+C:\Users\OMEGA 02\Documents\impresso_backend\Busines\bin\Debug\Domain.dll
+C:\Users\OMEGA 02\Documents\impresso_backend\Busines\bin\Debug\EntityFramework.dll
+C:\Users\OMEGA 02\Documents\impresso_backend\Busines\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\OMEGA 02\Documents\impresso_backend\Busines\bin\Debug\MySql.Data.dll
+C:\Users\OMEGA 02\Documents\impresso_backend\Busines\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\OMEGA 02\Documents\impresso_backend\Busines\bin\Debug\Repository.dll
+C:\Users\OMEGA 02\Documents\impresso_backend\Busines\bin\Debug\Domain.pdb
+C:\Users\OMEGA 02\Documents\impresso_backend\Busines\bin\Debug\Domain.dll.config
+C:\Users\OMEGA 02\Documents\impresso_backend\Busines\bin\Debug\Repository.pdb
+C:\Users\OMEGA 02\Documents\impresso_backend\Busines\bin\Debug\Repository.dll.config
+C:\Users\OMEGA 02\Documents\impresso_backend\Busines\bin\Debug\EntityFramework.xml
+C:\Users\OMEGA 02\Documents\impresso_backend\Busines\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\OMEGA 02\Documents\impresso_backend\Busines\bin\Debug\MySql.Data.xml
+C:\Users\OMEGA 02\Documents\impresso_backend\Busines\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\Users\OMEGA 02\Documents\impresso_backend\Busines\obj\Debug\Busines.csprojAssemblyReference.cache
+C:\Users\OMEGA 02\Documents\impresso_backend\Busines\obj\Debug\Busines.csproj.CoreCompileInputs.cache
+C:\Users\OMEGA 02\Documents\impresso_backend\Busines\obj\Debug\Busines.csproj.CopyComplete
+C:\Users\OMEGA 02\Documents\impresso_backend\Busines\obj\Debug\Busines.dll
+C:\Users\OMEGA 02\Documents\impresso_backend\Busines\obj\Debug\Busines.pdb
+C:\dev\make2u\locacao-backend\impresso_backend\Busines\bin\Debug\Busines.dll.config
+C:\dev\make2u\locacao-backend\impresso_backend\Busines\bin\Debug\Busines.dll
+C:\dev\make2u\locacao-backend\impresso_backend\Busines\bin\Debug\Busines.pdb
+C:\dev\make2u\locacao-backend\impresso_backend\Busines\bin\Debug\Domain.dll
+C:\dev\make2u\locacao-backend\impresso_backend\Busines\bin\Debug\EntityFramework.dll
+C:\dev\make2u\locacao-backend\impresso_backend\Busines\bin\Debug\EntityFramework.SqlServer.dll
+C:\dev\make2u\locacao-backend\impresso_backend\Busines\bin\Debug\MySql.Data.dll
+C:\dev\make2u\locacao-backend\impresso_backend\Busines\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\dev\make2u\locacao-backend\impresso_backend\Busines\bin\Debug\Repository.dll
+C:\dev\make2u\locacao-backend\impresso_backend\Busines\bin\Debug\Domain.pdb
+C:\dev\make2u\locacao-backend\impresso_backend\Busines\bin\Debug\Domain.dll.config
+C:\dev\make2u\locacao-backend\impresso_backend\Busines\bin\Debug\Repository.pdb
+C:\dev\make2u\locacao-backend\impresso_backend\Busines\bin\Debug\Repository.dll.config
+C:\dev\make2u\locacao-backend\impresso_backend\Busines\bin\Debug\EntityFramework.xml
+C:\dev\make2u\locacao-backend\impresso_backend\Busines\bin\Debug\EntityFramework.SqlServer.xml
+C:\dev\make2u\locacao-backend\impresso_backend\Busines\bin\Debug\MySql.Data.xml
+C:\dev\make2u\locacao-backend\impresso_backend\Busines\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\dev\make2u\locacao-backend\impresso_backend\Busines\obj\Debug\Busines.csprojAssemblyReference.cache
+C:\dev\make2u\locacao-backend\impresso_backend\Busines\obj\Debug\Busines.csproj.CoreCompileInputs.cache
+C:\dev\make2u\locacao-backend\impresso_backend\Busines\obj\Debug\Busines.csproj.CopyComplete
+C:\dev\make2u\locacao-backend\impresso_backend\Busines\obj\Debug\Busines.dll
+C:\dev\make2u\locacao-backend\impresso_backend\Busines\obj\Debug\Busines.pdb
+C:\dev\make2u\locacao-backend\Busines\bin\Debug\Busines.dll.config
+C:\dev\make2u\locacao-backend\Busines\bin\Debug\Busines.dll
+C:\dev\make2u\locacao-backend\Busines\bin\Debug\Busines.pdb
+C:\dev\make2u\locacao-backend\Busines\bin\Debug\Domain.dll
+C:\dev\make2u\locacao-backend\Busines\bin\Debug\EntityFramework.dll
+C:\dev\make2u\locacao-backend\Busines\bin\Debug\EntityFramework.SqlServer.dll
+C:\dev\make2u\locacao-backend\Busines\bin\Debug\MySql.Data.dll
+C:\dev\make2u\locacao-backend\Busines\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\dev\make2u\locacao-backend\Busines\bin\Debug\Repository.dll
+C:\dev\make2u\locacao-backend\Busines\bin\Debug\Domain.pdb
+C:\dev\make2u\locacao-backend\Busines\bin\Debug\Domain.dll.config
+C:\dev\make2u\locacao-backend\Busines\bin\Debug\Repository.pdb
+C:\dev\make2u\locacao-backend\Busines\bin\Debug\Repository.dll.config
+C:\dev\make2u\locacao-backend\Busines\bin\Debug\EntityFramework.xml
+C:\dev\make2u\locacao-backend\Busines\bin\Debug\EntityFramework.SqlServer.xml
+C:\dev\make2u\locacao-backend\Busines\bin\Debug\MySql.Data.xml
+C:\dev\make2u\locacao-backend\Busines\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\dev\make2u\locacao-backend\Busines\obj\Debug\Busines.csprojAssemblyReference.cache
+C:\dev\make2u\locacao-backend\Busines\obj\Debug\Busines.csproj.CoreCompileInputs.cache
+C:\dev\make2u\locacao-backend\Busines\obj\Debug\Busines.csproj.CopyComplete
+C:\dev\make2u\locacao-backend\Busines\obj\Debug\Busines.dll
+C:\dev\make2u\locacao-backend\Busines\obj\Debug\Busines.pdb
+C:\Users\OMEGA 02\Documents\locacao-backend\Busines\bin\Debug\Busines.dll.config
+C:\Users\OMEGA 02\Documents\locacao-backend\Busines\bin\Debug\Busines.dll
+C:\Users\OMEGA 02\Documents\locacao-backend\Busines\bin\Debug\Busines.pdb
+C:\Users\OMEGA 02\Documents\locacao-backend\Busines\bin\Debug\Domain.dll
+C:\Users\OMEGA 02\Documents\locacao-backend\Busines\bin\Debug\EntityFramework.dll
+C:\Users\OMEGA 02\Documents\locacao-backend\Busines\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\OMEGA 02\Documents\locacao-backend\Busines\bin\Debug\MySql.Data.dll
+C:\Users\OMEGA 02\Documents\locacao-backend\Busines\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\OMEGA 02\Documents\locacao-backend\Busines\bin\Debug\Repository.dll
+C:\Users\OMEGA 02\Documents\locacao-backend\Busines\bin\Debug\Domain.pdb
+C:\Users\OMEGA 02\Documents\locacao-backend\Busines\bin\Debug\Domain.dll.config
+C:\Users\OMEGA 02\Documents\locacao-backend\Busines\bin\Debug\Repository.pdb
+C:\Users\OMEGA 02\Documents\locacao-backend\Busines\bin\Debug\Repository.dll.config
+C:\Users\OMEGA 02\Documents\locacao-backend\Busines\bin\Debug\EntityFramework.xml
+C:\Users\OMEGA 02\Documents\locacao-backend\Busines\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\OMEGA 02\Documents\locacao-backend\Busines\bin\Debug\MySql.Data.xml
+C:\Users\OMEGA 02\Documents\locacao-backend\Busines\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\Users\OMEGA 02\Documents\locacao-backend\Busines\obj\Debug\Busines.csprojAssemblyReference.cache
+C:\Users\OMEGA 02\Documents\locacao-backend\Busines\obj\Debug\Busines.csproj.CoreCompileInputs.cache
+C:\Users\OMEGA 02\Documents\locacao-backend\Busines\obj\Debug\Busines.csproj.CopyComplete
+C:\Users\OMEGA 02\Documents\locacao-backend\Busines\obj\Debug\Busines.dll
+C:\Users\OMEGA 02\Documents\locacao-backend\Busines\obj\Debug\Busines.pdb
+C:\Users\PROG-MASTER\Documents\locacao-backend\Busines\bin\Debug\Busines.dll.config
+C:\Users\PROG-MASTER\Documents\locacao-backend\Busines\bin\Debug\Busines.dll
+C:\Users\PROG-MASTER\Documents\locacao-backend\Busines\bin\Debug\Busines.pdb
+C:\Users\PROG-MASTER\Documents\locacao-backend\Busines\bin\Debug\Domain.dll
+C:\Users\PROG-MASTER\Documents\locacao-backend\Busines\bin\Debug\EntityFramework.dll
+C:\Users\PROG-MASTER\Documents\locacao-backend\Busines\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\PROG-MASTER\Documents\locacao-backend\Busines\bin\Debug\MySql.Data.dll
+C:\Users\PROG-MASTER\Documents\locacao-backend\Busines\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\PROG-MASTER\Documents\locacao-backend\Busines\bin\Debug\Repository.dll
+C:\Users\PROG-MASTER\Documents\locacao-backend\Busines\bin\Debug\Domain.pdb
+C:\Users\PROG-MASTER\Documents\locacao-backend\Busines\bin\Debug\Domain.dll.config
+C:\Users\PROG-MASTER\Documents\locacao-backend\Busines\bin\Debug\Repository.pdb
+C:\Users\PROG-MASTER\Documents\locacao-backend\Busines\bin\Debug\Repository.dll.config
+C:\Users\PROG-MASTER\Documents\locacao-backend\Busines\bin\Debug\EntityFramework.xml
+C:\Users\PROG-MASTER\Documents\locacao-backend\Busines\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\PROG-MASTER\Documents\locacao-backend\Busines\bin\Debug\MySql.Data.xml
+C:\Users\PROG-MASTER\Documents\locacao-backend\Busines\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\Users\PROG-MASTER\Documents\locacao-backend\Busines\obj\Debug\Busines.csprojAssemblyReference.cache
+C:\Users\PROG-MASTER\Documents\locacao-backend\Busines\obj\Debug\Busines.csproj.CoreCompileInputs.cache
+C:\Users\PROG-MASTER\Documents\locacao-backend\Busines\obj\Debug\Busines.csproj.CopyComplete
+C:\Users\PROG-MASTER\Documents\locacao-backend\Busines\obj\Debug\Busines.dll
+C:\Users\PROG-MASTER\Documents\locacao-backend\Busines\obj\Debug\Busines.pdb
+C:\dev\Inewaction\locacao-backend\Busines\obj\Debug\Busines.csprojAssemblyReference.cache
+C:\dev\Inewaction\locacao-backend\Busines\obj\Debug\Busines.csproj.CoreCompileInputs.cache
+C:\dev\Inewaction\locacao-backend\Busines\obj\Debug\Busines.dll
+C:\dev\Inewaction\locacao-backend\Busines\obj\Debug\Busines.pdb
+C:\dev\Inewaction\locacao-backend\Busines\bin\Debug\Busines.dll.config
+C:\dev\Inewaction\locacao-backend\Busines\bin\Debug\Busines.dll
+C:\dev\Inewaction\locacao-backend\Busines\bin\Debug\Busines.pdb
+C:\dev\Inewaction\locacao-backend\Busines\bin\Debug\Domain.dll
+C:\dev\Inewaction\locacao-backend\Busines\bin\Debug\EntityFramework.dll
+C:\dev\Inewaction\locacao-backend\Busines\bin\Debug\EntityFramework.SqlServer.dll
+C:\dev\Inewaction\locacao-backend\Busines\bin\Debug\MySql.Data.dll
+C:\dev\Inewaction\locacao-backend\Busines\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\dev\Inewaction\locacao-backend\Busines\bin\Debug\Repository.dll
+C:\dev\Inewaction\locacao-backend\Busines\bin\Debug\Domain.pdb
+C:\dev\Inewaction\locacao-backend\Busines\bin\Debug\Domain.dll.config
+C:\dev\Inewaction\locacao-backend\Busines\bin\Debug\Repository.pdb
+C:\dev\Inewaction\locacao-backend\Busines\bin\Debug\Repository.dll.config
+C:\dev\Inewaction\locacao-backend\Busines\bin\Debug\EntityFramework.xml
+C:\dev\Inewaction\locacao-backend\Busines\bin\Debug\EntityFramework.SqlServer.xml
+C:\dev\Inewaction\locacao-backend\Busines\bin\Debug\MySql.Data.xml
+C:\dev\Inewaction\locacao-backend\Busines\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\dev\Inewaction\locacao-backend\Busines\obj\Debug\Busines.csproj.CopyComplete
+C:\dev\locacao-backend\Busines\bin\Debug\Busines.dll.config
+C:\dev\locacao-backend\Busines\bin\Debug\Busines.dll
+C:\dev\locacao-backend\Busines\bin\Debug\Busines.pdb
+C:\dev\locacao-backend\Busines\bin\Debug\Domain.dll
+C:\dev\locacao-backend\Busines\bin\Debug\EntityFramework.dll
+C:\dev\locacao-backend\Busines\bin\Debug\EntityFramework.SqlServer.dll
+C:\dev\locacao-backend\Busines\bin\Debug\MySql.Data.dll
+C:\dev\locacao-backend\Busines\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\dev\locacao-backend\Busines\bin\Debug\Repository.dll
+C:\dev\locacao-backend\Busines\bin\Debug\Domain.pdb
+C:\dev\locacao-backend\Busines\bin\Debug\Domain.dll.config
+C:\dev\locacao-backend\Busines\bin\Debug\Repository.pdb
+C:\dev\locacao-backend\Busines\bin\Debug\Repository.dll.config
+C:\dev\locacao-backend\Busines\bin\Debug\EntityFramework.xml
+C:\dev\locacao-backend\Busines\bin\Debug\EntityFramework.SqlServer.xml
+C:\dev\locacao-backend\Busines\bin\Debug\MySql.Data.xml
+C:\dev\locacao-backend\Busines\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\dev\locacao-backend\Busines\obj\Debug\Busines.csprojAssemblyReference.cache
+C:\dev\locacao-backend\Busines\obj\Debug\Busines.csproj.CoreCompileInputs.cache
+C:\dev\locacao-backend\Busines\obj\Debug\Busines.csproj.CopyComplete
+C:\dev\locacao-backend\Busines\obj\Debug\Busines.dll
+C:\dev\locacao-backend\Busines\obj\Debug\Busines.pdb
+C:\Users\Charly\Documents\Worckspace\locacao-backend\Busines\bin\Debug\Busines.dll.config
+C:\Users\Charly\Documents\Worckspace\locacao-backend\Busines\bin\Debug\Busines.dll
+C:\Users\Charly\Documents\Worckspace\locacao-backend\Busines\bin\Debug\Busines.pdb
+C:\Users\Charly\Documents\Worckspace\locacao-backend\Busines\bin\Debug\Domain.dll
+C:\Users\Charly\Documents\Worckspace\locacao-backend\Busines\bin\Debug\EntityFramework.dll
+C:\Users\Charly\Documents\Worckspace\locacao-backend\Busines\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Charly\Documents\Worckspace\locacao-backend\Busines\bin\Debug\MySql.Data.dll
+C:\Users\Charly\Documents\Worckspace\locacao-backend\Busines\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\Charly\Documents\Worckspace\locacao-backend\Busines\bin\Debug\Repository.dll
+C:\Users\Charly\Documents\Worckspace\locacao-backend\Busines\bin\Debug\Domain.pdb
+C:\Users\Charly\Documents\Worckspace\locacao-backend\Busines\bin\Debug\Domain.dll.config
+C:\Users\Charly\Documents\Worckspace\locacao-backend\Busines\bin\Debug\Repository.pdb
+C:\Users\Charly\Documents\Worckspace\locacao-backend\Busines\bin\Debug\Repository.dll.config
+C:\Users\Charly\Documents\Worckspace\locacao-backend\Busines\bin\Debug\EntityFramework.xml
+C:\Users\Charly\Documents\Worckspace\locacao-backend\Busines\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Charly\Documents\Worckspace\locacao-backend\Busines\bin\Debug\MySql.Data.xml
+C:\Users\Charly\Documents\Worckspace\locacao-backend\Busines\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\Users\Charly\Documents\Worckspace\locacao-backend\Busines\obj\Debug\Busines.csprojAssemblyReference.cache
+C:\Users\Charly\Documents\Worckspace\locacao-backend\Busines\obj\Debug\Busines.csproj.CoreCompileInputs.cache
+C:\Users\Charly\Documents\Worckspace\locacao-backend\Busines\obj\Debug\Busines.csproj.CopyComplete
+C:\Users\Charly\Documents\Worckspace\locacao-backend\Busines\obj\Debug\Busines.dll
+C:\Users\Charly\Documents\Worckspace\locacao-backend\Busines\obj\Debug\Busines.pdb
+C:\dev\Inewaction\locacao-backend\Busines\bin\Debug\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\dev\Inewaction\locacao-backend\Busines\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\dev\Inewaction\locacao-backend\Busines\bin\Debug\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\dev\Inewaction\locacao-backend\Busines\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\dev\Inewaction\locacao-backend\Busines\bin\Debug\Newtonsoft.Json.dll
+C:\dev\Inewaction\locacao-backend\Busines\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Charly\Documents\Worckspace\locacao-backend\Busines\bin\Debug\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Charly\Documents\Worckspace\locacao-backend\Busines\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Charly\Documents\Worckspace\locacao-backend\Busines\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Charly\Documents\Worckspace\locacao-backend\Busines\bin\Debug\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Charly\Documents\Worckspace\locacao-backend\Busines\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Charly\Documents\Worckspace\locacao-backend\Busines\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\OMEGA 02\Documents\locacao-backend\Busines\bin\Debug\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\OMEGA 02\Documents\locacao-backend\Busines\bin\Debug\Newtonsoft.Json.dll
+C:\Users\OMEGA 02\Documents\locacao-backend\Busines\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\OMEGA 02\Documents\locacao-backend\Busines\bin\Debug\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\OMEGA 02\Documents\locacao-backend\Busines\bin\Debug\Newtonsoft.Json.xml
+C:\Users\OMEGA 02\Documents\locacao-backend\Busines\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Desenvolvimento\Inewaction\locacao-backend\Busines\bin\Debug\Busines.dll.config
+C:\Desenvolvimento\Inewaction\locacao-backend\Busines\bin\Debug\Busines.dll
+C:\Desenvolvimento\Inewaction\locacao-backend\Busines\bin\Debug\Busines.pdb
+C:\Desenvolvimento\Inewaction\locacao-backend\Busines\bin\Debug\Domain.dll
+C:\Desenvolvimento\Inewaction\locacao-backend\Busines\bin\Debug\EntityFramework.dll
+C:\Desenvolvimento\Inewaction\locacao-backend\Busines\bin\Debug\EntityFramework.SqlServer.dll
+C:\Desenvolvimento\Inewaction\locacao-backend\Busines\bin\Debug\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Desenvolvimento\Inewaction\locacao-backend\Busines\bin\Debug\MySql.Data.dll
+C:\Desenvolvimento\Inewaction\locacao-backend\Busines\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Desenvolvimento\Inewaction\locacao-backend\Busines\bin\Debug\Newtonsoft.Json.dll
+C:\Desenvolvimento\Inewaction\locacao-backend\Busines\bin\Debug\Repository.dll
+C:\Desenvolvimento\Inewaction\locacao-backend\Busines\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Desenvolvimento\Inewaction\locacao-backend\Busines\bin\Debug\Domain.pdb
+C:\Desenvolvimento\Inewaction\locacao-backend\Busines\bin\Debug\Domain.dll.config
+C:\Desenvolvimento\Inewaction\locacao-backend\Busines\bin\Debug\Repository.pdb
+C:\Desenvolvimento\Inewaction\locacao-backend\Busines\bin\Debug\Repository.dll.config
+C:\Desenvolvimento\Inewaction\locacao-backend\Busines\bin\Debug\EntityFramework.xml
+C:\Desenvolvimento\Inewaction\locacao-backend\Busines\bin\Debug\EntityFramework.SqlServer.xml
+C:\Desenvolvimento\Inewaction\locacao-backend\Busines\bin\Debug\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Desenvolvimento\Inewaction\locacao-backend\Busines\bin\Debug\MySql.Data.xml
+C:\Desenvolvimento\Inewaction\locacao-backend\Busines\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\Desenvolvimento\Inewaction\locacao-backend\Busines\bin\Debug\Newtonsoft.Json.xml
+C:\Desenvolvimento\Inewaction\locacao-backend\Busines\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Desenvolvimento\Inewaction\locacao-backend\Busines\obj\Debug\Busines.csprojAssemblyReference.cache
+C:\Desenvolvimento\Inewaction\locacao-backend\Busines\obj\Debug\Busines.csproj.CopyComplete
+C:\Desenvolvimento\Inewaction\locacao-backend\Busines\obj\Debug\Busines.dll
+C:\Desenvolvimento\Inewaction\locacao-backend\Busines\obj\Debug\Busines.pdb
+C:\Desenvolvimento\Inewaction\locacao-backend\Busines\obj\Debug\Busines.csproj.CoreCompileInputs.cache

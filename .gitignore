@@ -1,0 +1,13 @@
+*.cache
+*.suo
+.vs/*
+*.ide
+*.ide-wal
+
+
+
+Content
+fonts
+Scripts
+Views
+Web.config
